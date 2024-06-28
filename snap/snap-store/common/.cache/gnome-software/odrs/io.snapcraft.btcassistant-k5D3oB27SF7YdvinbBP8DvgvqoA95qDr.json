@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.btcassistant-k5D3oB27SF7YdvinbBP8DvgvqoA95qDr",
+        "date_created": 1703008131.0,
+        "description": "Still needs work I think. Let me know when improved plse.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 1,
+        "locale": "en_CA.UTF-8",
+        "rating": 40,
+        "reported": 0,
+        "review_id": 609728,
+        "score": 43,
+        "summary": "On 22.04 Ubuntu it keeps on crushing",
+        "user_display": "kitkat",
+        "user_hash": "0f26b9223022fbf501e459fe484e36250b30c48a",
+        "user_skey": "d43c6ed754715bc4ba2cd8edb3ac4d9cfa848344",
+        "version": "2.2.1"
+    }
+]

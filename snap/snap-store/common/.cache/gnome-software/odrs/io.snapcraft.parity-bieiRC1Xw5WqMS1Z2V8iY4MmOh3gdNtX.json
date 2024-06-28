@@ -1,0 +1,38 @@
+[
+    {
+        "app_id": "io.snapcraft.parity-bieiRC1Xw5WqMS1Z2V8iY4MmOh3gdNtX",
+        "date_created": 1617258601.0,
+        "description": "opens terminal and closes",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "en_US.UTF-8",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 359296,
+        "score": 0,
+        "summary": "blinks out",
+        "user_display": "Jon",
+        "user_hash": "fba313c92daa65b2140ebe2e76114629fc5fb327",
+        "user_skey": "c867461efe55d3e5335b619a0765f9574dabc401",
+        "version": "v2.7.2"
+    },
+    {
+        "app_id": "io.snapcraft.parity-bieiRC1Xw5WqMS1Z2V8iY4MmOh3gdNtX",
+        "date_created": 1618359847.0,
+        "description": "Illegal Instruction (core dumped)",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "en_CA",
+        "rating": 20,
+        "reported": 0,
+        "review_id": 364473,
+        "score": 0,
+        "summary": "crash",
+        "user_display": "KDE Julie",
+        "user_hash": "1731577b7e44367d5930feb6b31edd65d5991120",
+        "user_skey": "c867461efe55d3e5335b619a0765f9574dabc401",
+        "version": "v2.7.2"
+    }
+]

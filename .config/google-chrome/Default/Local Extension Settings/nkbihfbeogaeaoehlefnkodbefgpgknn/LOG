@@ -1,0 +1,42 @@
+2024/06/28-15:44:40.931 1248 Reusing MANIFEST /home/sk02352/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2024/06/28-15:44:40.932 1248 Recovering log #134
+2024/06/28-15:44:40.952 1248 Reusing old log /home/sk02352/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/000134.log 
+2024/06/28-15:44:45.354 1249 Level-0 table #138: started
+2024/06/28-15:44:45.385 1249 Level-0 table #138: 3779184 bytes OK
+2024/06/28-15:44:45.388 1249 Delete type=0 #134
+2024/06/28-15:44:45.388 1249 Compacting 4@0 + 1@1 files
+2024/06/28-15:44:45.436 1249 Generated table #139@0: 2 keys, 1889438 bytes
+2024/06/28-15:44:45.436 1249 Compacted 4@0 + 1@1 files => 1889438 bytes
+2024/06/28-15:44:45.438 1249 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/28-15:44:45.438 1249 Delete type=2 #133
+2024/06/28-15:44:45.438 1249 Delete type=2 #135
+2024/06/28-15:44:45.438 1249 Delete type=2 #131
+2024/06/28-15:44:45.438 1249 Delete type=2 #138
+2024/06/28-15:44:45.439 1249 Delete type=2 #129
+2024/06/28-15:44:52.545 1249 Level-0 table #141: started
+2024/06/28-15:44:52.577 1249 Level-0 table #141: 3778855 bytes OK
+2024/06/28-15:44:52.579 1249 Delete type=0 #137
+2024/06/28-15:45:02.092 1249 Level-0 table #143: started
+2024/06/28-15:45:02.119 1249 Level-0 table #143: 3779164 bytes OK
+2024/06/28-15:45:02.124 1249 Delete type=0 #140
+2024/06/28-15:48:01.491 1249 Level-0 table #145: started
+2024/06/28-15:48:01.518 1249 Level-0 table #145: 3779258 bytes OK
+2024/06/28-15:48:01.521 1249 Delete type=0 #142
+2024/06/28-15:56:47.024 1249 Level-0 table #147: started
+2024/06/28-15:56:47.058 1249 Level-0 table #147: 3779339 bytes OK
+2024/06/28-15:56:47.062 1249 Delete type=0 #144
+2024/06/28-15:56:47.062 1249 Compacting 4@0 + 1@1 files
+2024/06/28-15:56:47.117 1249 Generated table #148@0: 2 keys, 1889760 bytes
+2024/06/28-15:56:47.117 1249 Compacted 4@0 + 1@1 files => 1889760 bytes
+2024/06/28-15:56:47.119 1249 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/28-15:56:47.119 1249 Delete type=2 #147
+2024/06/28-15:56:47.119 1249 Delete type=2 #143
+2024/06/28-15:56:47.119 1249 Delete type=2 #139
+2024/06/28-15:56:47.119 1249 Delete type=2 #141
+2024/06/28-15:56:47.119 1249 Delete type=2 #145
+2024/06/28-16:07:35.628 1249 Level-0 table #150: started
+2024/06/28-16:07:35.654 1249 Level-0 table #150: 3779565 bytes OK
+2024/06/28-16:07:35.658 1249 Delete type=0 #146
+2024/06/28-16:11:27.731 1249 Level-0 table #152: started
+2024/06/28-16:11:27.763 1249 Level-0 table #152: 3779687 bytes OK
+2024/06/28-16:11:27.766 1249 Delete type=0 #149

@@ -1,0 +1,15 @@
+2024/06/20-11:49:18.594 1255 Reusing MANIFEST /home/sk02352/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/20-11:49:18.594 1255 Recovering log #4
+2024/06/20-11:49:18.594 1255 Reusing old log /home/sk02352/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000004.log 
+2024/06/20-11:49:50.642 1256 Level-0 table #8: started
+2024/06/20-11:49:50.645 1256 Level-0 table #8: 209 bytes OK
+2024/06/20-11:49:50.648 1256 Delete type=0 #4
+2024/06/20-11:49:50.649 1256 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/20-11:49:50.649 1256 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 9321 : 1
+2024/06/20-11:49:50.649 1256 Compacting 1@1 + 1@2 files
+2024/06/20-11:49:50.652 1256 Generated table #9@1: 1630 keys, 73550 bytes
+2024/06/20-11:49:50.652 1256 Compacted 1@1 + 1@2 files => 73550 bytes
+2024/06/20-11:49:50.654 1256 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/20-11:49:50.654 1256 Delete type=2 #5
+2024/06/20-11:49:50.654 1256 Delete type=2 #8
+2024/06/20-11:49:50.654 1256 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 9321 : 1 .. (end); will stop at (end)

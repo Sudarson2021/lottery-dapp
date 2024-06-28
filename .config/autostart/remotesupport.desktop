@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=WebRtc
+Exec=dbus-send --session --print-reply --dest=org.freedesktop.DBus / org.freedesktop.DBus.StartServiceByName string:com.gears42.remotesupport uint32:0
+X-GNOME-Autostart-enabled=true

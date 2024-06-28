@@ -1,0 +1,67 @@
+2024/02/16-03:18:11.532 8cfd Creating DB /home/sk02352/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb since it was missing.
+2024/02/16-03:18:11.539 8cfd Reusing MANIFEST /home/sk02352/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/16-03:18:12.993 8cfe Level-0 table #5: started
+2024/02/16-03:18:12.997 8cfe Level-0 table #5: 83923 bytes OK
+2024/02/16-03:18:13.000 8cfe Delete type=0 #3
+2024/02/16-03:18:13.000 8cfe Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/16-03:18:16.675 8cfd Level-0 table #7: started
+2024/02/16-03:18:16.693 8cfd Level-0 table #7: 1650428 bytes OK
+2024/02/16-03:18:16.696 8cfd Delete type=0 #4
+2024/02/16-03:18:16.740 8cfd Compacting 1@1 + 1@2 files
+2024/02/16-03:18:16.759 8cfd Generated table #8@1: 4263 keys, 1277709 bytes
+2024/02/16-03:18:16.760 8cfd Compacted 1@1 + 1@2 files => 1277709 bytes
+2024/02/16-03:18:16.762 8cfd compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/16-03:18:16.762 8cfd Delete type=2 #5
+2024/02/16-03:18:16.762 8cfd Delete type=2 #7
+2024/02/16-03:18:17.284 8d00 Level-0 table #10: started
+2024/02/16-03:18:17.298 8d00 Level-0 table #10: 1221982 bytes OK
+2024/02/16-03:18:17.306 8d00 Delete type=0 #6
+2024/02/16-03:18:17.331 8cfd Compacting 1@1 + 1@2 files
+2024/02/16-03:18:17.353 8cfd Generated table #11@1: 9117 keys, 2153854 bytes
+2024/02/16-03:18:17.353 8cfd Compacted 1@1 + 1@2 files => 2153854 bytes
+2024/02/16-03:18:17.357 8cfd compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/16-03:18:17.357 8cfd Delete type=2 #10
+2024/02/16-03:18:17.357 8cfd Delete type=2 #8
+2024/02/16-03:18:18.829 8cfe Level-0 table #13: started
+2024/02/16-03:18:18.842 8cfe Level-0 table #13: 1184305 bytes OK
+2024/02/16-03:18:18.844 8cfe Delete type=0 #9
+2024/02/16-03:18:18.894 8d00 Compacting 1@1 + 1@2 files
+2024/02/16-03:18:18.928 8d00 Generated table #14@1: 4031 keys, 2142398 bytes
+2024/02/16-03:18:18.939 8d00 Generated table #15@1: 7746 keys, 878483 bytes
+2024/02/16-03:18:18.940 8d00 Compacted 1@1 + 1@2 files => 3020881 bytes
+2024/02/16-03:18:18.942 8d00 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/16-03:18:18.942 8d00 Delete type=2 #11
+2024/02/16-03:18:18.942 8d00 Delete type=2 #13
+2024/02/16-18:18:03.815 8cfe Level-0 table #17: started
+2024/02/16-18:18:03.832 8cfe Level-0 table #17: 1585157 bytes OK
+2024/02/16-18:18:03.835 8cfe Delete type=0 #12
+2024/02/16-18:51:21.986 8d00 Compacting 1@1 + 2@2 files
+2024/02/16-18:51:22.007 8d00 Generated table #18@1: 4760 keys, 2143934 bytes
+2024/02/16-18:51:22.023 8d00 Generated table #19@1: 8671 keys, 1186534 bytes
+2024/02/16-18:51:22.023 8d00 Compacted 1@1 + 2@2 files => 3330468 bytes
+2024/02/16-18:51:22.028 8d00 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/16-18:51:22.028 8d00 Delete type=2 #17
+2024/02/16-18:51:22.028 8d00 Delete type=2 #15
+2024/02/16-18:51:22.028 8d00 Delete type=2 #14
+2024/02/29-13:22:31.009 8cfe Level-0 table #21: started
+2024/02/29-13:22:31.025 8cfe Level-0 table #21: 1754695 bytes OK
+2024/02/29-13:22:31.030 8cfe Delete type=0 #16
+2024/02/29-13:26:23.655 8cfe Compacting 1@1 + 2@2 files
+2024/02/29-13:26:23.680 8cfe Generated table #22@1: 5908 keys, 2152111 bytes
+2024/02/29-13:26:23.696 8cfe Generated table #23@1: 9050 keys, 1433993 bytes
+2024/02/29-13:26:23.697 8cfe Compacted 1@1 + 2@2 files => 3586104 bytes
+2024/02/29-13:26:23.699 8cfe compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/29-13:26:23.699 8cfe Delete type=2 #21
+2024/02/29-13:26:23.699 8cfe Delete type=2 #19
+2024/02/29-13:26:23.699 8cfe Delete type=2 #18
+2024/02/29-13:29:23.772 8cfd Level-0 table #25: started
+2024/02/29-13:29:23.785 8cfd Level-0 table #25: 1299335 bytes OK
+2024/02/29-13:29:23.788 8cfd Delete type=0 #20
+2024/02/29-13:59:47.075 8cfe Compacting 1@1 + 2@2 files
+2024/02/29-13:59:47.110 8cfe Generated table #26@1: 5976 keys, 2149825 bytes
+2024/02/29-13:59:47.127 8cfe Generated table #27@1: 9064 keys, 1451556 bytes
+2024/02/29-13:59:47.127 8cfe Compacted 1@1 + 2@2 files => 3601381 bytes
+2024/02/29-13:59:47.129 8cfe compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/29-13:59:47.129 8cfe Delete type=2 #23
+2024/02/29-13:59:47.129 8cfe Delete type=2 #22
+2024/02/29-13:59:47.129 8cfe Delete type=2 #25

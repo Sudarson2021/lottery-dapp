@@ -1,0 +1,1540 @@
+P2630-T69203520 Mar 13 12:56:50:467722 Info ( 684): debug thread starts
+P2630-T75827008 Mar 13 12:56:50:469187 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P2630-T75827008 Mar 13 12:56:50:469195 Info ( 218): ################### main - PanGPA started. pid = 2630. ##################
+P2630-T75827008 Mar 13 12:56:50:469596 Debug( 150): Current login user is sk02352.
+P2630-T75827008 Mar 13 12:56:50:469824 Debug(  56): m_pConfig initialized.
+P2630-T75827008 Mar 13 12:56:50:471187 Debug( 111): HeadlessMode: 
+P2630-T75827008 Mar 13 12:56:50:527888 Debug( 304): save-user-credentials = -1
+P2630-T75827008 Mar 13 12:56:50:527908 Debug( 324): portal-2fa = no
+P2630-T75827008 Mar 13 12:56:50:527910 Debug( 335): internal-gateway-2fa = no
+P2630-T75827008 Mar 13 12:56:50:527912 Debug( 346): auto-discovery-external-gateway-2fa = no
+P2630-T75827008 Mar 13 12:56:50:527914 Debug( 357): manual-only-gateway-2fa = no
+P2630-T75827008 Mar 13 12:56:50:528534 Info ( 249): Current debug level = 5
+P2630-T75827008 Mar 13 12:56:50:530050 Debug( 362): get DisplayWelcome -1 
+P2630-T75827008 Mar 13 12:56:50:530614 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P2630-T75827008 Mar 13 12:56:50:530617 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P2630-T75827008 Mar 13 12:56:50:530776 Debug(  79): m_pUserInfo initialized.
+P2630-T75827008 Mar 13 12:56:50:530779 Debug( 159): CPanConfigMgrLinux initialized.
+P2630-T75827008 Mar 13 12:56:50:530830 Info (1037): startCommandQueue - command queue started.
+P2630-T75827008 Mar 13 12:56:50:530832 Debug( 170): CPanCommandLinux initialized.
+P2630-T75827008 Mar 13 12:56:50:530834 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P2630-T75827008 Mar 13 12:56:50:530835 Debug( 176): stats and stats manager initialized.
+P2630-T75827008 Mar 13 12:56:50:530836 Debug( 181): CPanNotification initialized.
+P2630-T75827008 Mar 13 12:56:50:530839 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P2630-T75827008 Mar 13 12:56:50:530840 Debug( 188): CPanGPIParser initialized.
+P2630-T75827008 Mar 13 12:56:50:530841 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P2630-T75827008 Mar 13 12:56:50:530842 Debug( 200): New socket created.
+P2630-T75827008 Mar 13 12:56:50:530843 Info ( 205): InitConnection ...
+P2630-T75827008 Mar 13 12:56:50:530864 Error(  72): Failed to set nosigpipe
+P2630-T75827008 Mar 13 12:56:50:531037 Debug( 443): decryptPwd - encrypted object is empty.
+P2630-T75827008 Mar 13 12:56:50:531245 Debug( 443): decryptPwd - encrypted object is empty.
+P2630-T75827008 Mar 13 12:56:50:531252 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P2630-T52418112 Mar 13 12:56:50:531275 Debug( 431): SelectProc started.
+P2630-T75827008 Mar 13 12:56:50:531600 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P2630-T75827008 Mar 13 12:56:50:531602 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P2630-T75827008 Mar 13 12:56:50:531636 Info (  64): message queue created.
+P2630-T44025408 Mar 13 12:56:50:531638 Debug( 459): SelectGpiProc started
+P2630-T75827008 Mar 13 12:56:50:531651 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P2630-T44025408 Mar 13 12:56:50:531668 Debug( 472): PanGPISocket: Listening for incoming connections...
+P2630-T44025408 Mar 13 12:56:50:531670 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P2630-T75827008 Mar 13 12:56:50:531712 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P2630-T75827008 Mar 13 12:56:50:531719 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P2630-T75827008 Mar 13 12:56:50:531740 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P2630-T35632704 Mar 13 12:56:50:531744 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P2630-T35632704 Mar 13 12:56:50:531748 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 6 wd 1 
+P2630-T35632704 Mar 13 12:56:50:531750 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P2630-T75827008 Mar 13 12:56:50:531760 Info ( 659): startGpiCommandQueue - command queue started.
+P2630-T27240000 Mar 13 12:56:50:531763 Debug( 735): GpiCommandProc enter.
+P2630-T75827008 Mar 13 12:56:50:531848 Info ( 490): StartSocketMonitor - socket monitoring started.
+P2630-T75827008 Mar 13 12:56:50:531852 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P2630-T18847296 Mar 13 12:56:50:532708 Debug(1256): SocketMonitor - socket monitoring started.
+P2630-T60810816 Mar 13 12:56:51:30925 Debug(1250): Send command to Pan Service
+P2630-T60810816 Mar 13 12:56:51:30945 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>2630</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P2630-T60810816 Mar 13 12:56:51:31178 Debug(1335): PanClient sent successful with 816 bytes
+P2630-T52418112 Mar 13 12:56:51:45264 Debug( 121): Received data from Pan Service
+P2630-T52418112 Mar 13 12:56:51:45377 Debug( 596): Current status is changed to 1.
+P2630-T52418112 Mar 13 12:56:51:45381 Debug( 174): username field is not empty. not override the username.
+P2630-T52418112 Mar 13 12:56:51:45382 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2630-T52418112 Mar 13 12:56:51:45385 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2630-T52418112 Mar 13 12:56:51:45396 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2630-T52418112 Mar 13 12:56:51:45408 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2630-T52418112 Mar 13 12:56:51:62061 Debug( 121): Received data from Pan Service
+P2630-T52418112 Mar 13 12:56:51:63456 Debug( 596): Current status is changed to 1.
+P2630-T52418112 Mar 13 12:56:51:63460 Debug( 174): username field is not empty. not override the username.
+P2630-T52418112 Mar 13 12:56:51:63462 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2630-T52418112 Mar 13 12:56:51:63464 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2630-T52418112 Mar 13 12:56:51:63474 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2630-T52418112 Mar 13 12:56:51:63485 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2630-T52418112 Mar 13 12:56:51:63501 Debug( 121): Received data from Pan Service
+P2630-T52418112 Mar 13 12:56:51:63648 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P2630-T52418112 Mar 13 12:56:51:63659 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2630-T52418112 Mar 13 12:56:51:63664 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2630-T44025408 Mar 13 12:56:53:711350 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P2630-T44025408 Mar 13 12:56:53:711359 Debug( 484): PanGPISocket: Connection Accepted
+P2630-T44025408 Mar 13 12:56:53:969054 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2630-T44025408 Mar 13 12:56:53:969146 Debug( 509): need to wait 200ms before sending another message
+P2630-T44025408 Mar 13 12:56:54:169288 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2630-T44025408 Mar 13 12:56:54:169311 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P2630-T44025408 Mar 13 12:56:54:169353 Debug( 509): need to wait 200ms before sending another message
+P2630-T44025408 Mar 13 12:56:54:369473 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2630-T75827008 Mar 18 17:16:25:15663 Info ( 170): Receive signal to terminate.
+P2630-T75827008 Mar 18 17:16:25:15717 Info ( 170): Receive signal to terminate.
+P2630-T75827008 Mar 18 17:16:25:16004 Info ( 170): Receive signal to terminate.
+P2630-T27240000 Mar 18 17:16:25:904622 Info ( 706): User sk02352 has signed out, PanGPA should be closed.
+P2630-T27240000 Mar 18 17:16:25:904641 Info (  64): message queue created.
+P2630-T27240000 Mar 18 17:16:25:904655 Debug( 283): CPanMsgQueue::deleteQueue - message queue deleted.
+P3344-T-209717696 Mar 27 13:20:51:688428 Info ( 684): debug thread starts
+P3344-T-202885312 Mar 27 13:20:51:688669 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P3344-T-202885312 Mar 27 13:20:51:688679 Info ( 218): ################### main - PanGPA started. pid = 3344. ##################
+P3344-T-202885312 Mar 27 13:20:51:689107 Debug( 150): Current login user is sk02352.
+P3344-T-202885312 Mar 27 13:20:51:689349 Debug(  56): m_pConfig initialized.
+P3344-T-202885312 Mar 27 13:20:51:691022 Debug( 111): HeadlessMode: 
+P3344-T-202885312 Mar 27 13:20:51:751431 Debug( 304): save-user-credentials = -1
+P3344-T-202885312 Mar 27 13:20:51:751443 Debug( 324): portal-2fa = no
+P3344-T-202885312 Mar 27 13:20:51:751446 Debug( 335): internal-gateway-2fa = no
+P3344-T-202885312 Mar 27 13:20:51:751447 Debug( 346): auto-discovery-external-gateway-2fa = no
+P3344-T-202885312 Mar 27 13:20:51:751449 Debug( 357): manual-only-gateway-2fa = no
+P3344-T-202885312 Mar 27 13:20:51:751749 Info ( 249): Current debug level = 5
+P3344-T-202885312 Mar 27 13:20:51:753535 Debug( 362): get DisplayWelcome -1 
+P3344-T-202885312 Mar 27 13:20:51:753997 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P3344-T-202885312 Mar 27 13:20:51:753999 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P3344-T-202885312 Mar 27 13:20:51:754142 Debug(  79): m_pUserInfo initialized.
+P3344-T-202885312 Mar 27 13:20:51:754144 Debug( 159): CPanConfigMgrLinux initialized.
+P3344-T-202885312 Mar 27 13:20:51:754191 Info (1037): startCommandQueue - command queue started.
+P3344-T-202885312 Mar 27 13:20:51:754192 Debug( 170): CPanCommandLinux initialized.
+P3344-T-202885312 Mar 27 13:20:51:754194 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P3344-T-202885312 Mar 27 13:20:51:754195 Debug( 176): stats and stats manager initialized.
+P3344-T-202885312 Mar 27 13:20:51:754195 Debug( 181): CPanNotification initialized.
+P3344-T-202885312 Mar 27 13:20:51:754198 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P3344-T-202885312 Mar 27 13:20:51:754199 Debug( 188): CPanGPIParser initialized.
+P3344-T-202885312 Mar 27 13:20:51:754200 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P3344-T-202885312 Mar 27 13:20:51:754201 Debug( 200): New socket created.
+P3344-T-202885312 Mar 27 13:20:51:754202 Info ( 205): InitConnection ...
+P3344-T-202885312 Mar 27 13:20:51:754224 Error(  72): Failed to set nosigpipe
+P3344-T-202885312 Mar 27 13:20:51:754302 Debug( 443): decryptPwd - encrypted object is empty.
+P3344-T-226503104 Mar 27 13:20:51:754307 Debug( 431): SelectProc started.
+P3344-T-202885312 Mar 27 13:20:51:754458 Debug( 443): decryptPwd - encrypted object is empty.
+P3344-T-202885312 Mar 27 13:20:51:754463 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P3344-T-202885312 Mar 27 13:20:51:754775 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P3344-T-202885312 Mar 27 13:20:51:754777 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P3344-T-202885312 Mar 27 13:20:51:754811 Info (  64): message queue created.
+P3344-T-202885312 Mar 27 13:20:51:754812 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P3344-T-234895808 Mar 27 13:20:51:754832 Debug( 459): SelectGpiProc started
+P3344-T-234895808 Mar 27 13:20:51:754859 Debug( 472): PanGPISocket: Listening for incoming connections...
+P3344-T-234895808 Mar 27 13:20:51:754860 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P3344-T-202885312 Mar 27 13:20:51:754980 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P3344-T-202885312 Mar 27 13:20:51:754988 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P3344-T-202885312 Mar 27 13:20:51:755006 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P3344-T-243288512 Mar 27 13:20:51:755010 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P3344-T-243288512 Mar 27 13:20:51:755014 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 4 wd 1 
+P3344-T-243288512 Mar 27 13:20:51:755015 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P3344-T-202885312 Mar 27 13:20:51:755022 Info ( 659): startGpiCommandQueue - command queue started.
+P3344-T-251681216 Mar 27 13:20:51:755026 Debug( 735): GpiCommandProc enter.
+P3344-T-202885312 Mar 27 13:20:51:755048 Info ( 490): StartSocketMonitor - socket monitoring started.
+P3344-T-202885312 Mar 27 13:20:51:755049 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P3344-T-335546816 Mar 27 13:20:51:755070 Debug(1256): SocketMonitor - socket monitoring started.
+P3344-T-218110400 Mar 27 13:20:52:254336 Debug(1250): Send command to Pan Service
+P3344-T-218110400 Mar 27 13:20:52:254353 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>3344</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P3344-T-218110400 Mar 27 13:20:52:254525 Debug(1335): PanClient sent successful with 816 bytes
+P3344-T-226503104 Mar 27 13:20:52:267499 Debug( 121): Received data from Pan Service
+P3344-T-226503104 Mar 27 13:20:52:267625 Debug( 596): Current status is changed to 1.
+P3344-T-226503104 Mar 27 13:20:52:267628 Debug( 174): username field is not empty. not override the username.
+P3344-T-226503104 Mar 27 13:20:52:267630 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P3344-T-226503104 Mar 27 13:20:52:267633 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P3344-T-226503104 Mar 27 13:20:52:267644 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P3344-T-226503104 Mar 27 13:20:52:267658 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P3344-T-226503104 Mar 27 13:20:52:284050 Debug( 121): Received data from Pan Service
+P3344-T-226503104 Mar 27 13:20:52:285559 Debug( 596): Current status is changed to 1.
+P3344-T-226503104 Mar 27 13:20:52:285567 Debug( 174): username field is not empty. not override the username.
+P3344-T-226503104 Mar 27 13:20:52:285568 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P3344-T-226503104 Mar 27 13:20:52:285571 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P3344-T-226503104 Mar 27 13:20:52:285582 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P3344-T-226503104 Mar 27 13:20:52:285596 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P3344-T-226503104 Mar 27 13:20:52:285617 Debug( 121): Received data from Pan Service
+P3344-T-226503104 Mar 27 13:20:52:285780 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P3344-T-226503104 Mar 27 13:20:52:285796 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P3344-T-226503104 Mar 27 13:20:52:285803 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P3344-T-234895808 Mar 27 13:20:55:34917 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P3344-T-234895808 Mar 27 13:20:55:34929 Debug( 484): PanGPISocket: Connection Accepted
+P3344-T-234895808 Mar 27 13:20:55:267367 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P3344-T-234895808 Mar 27 13:20:55:267467 Debug( 509): need to wait 200ms before sending another message
+P3344-T-234895808 Mar 27 13:20:55:467612 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P3344-T-234895808 Mar 27 13:20:55:467634 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P3344-T-234895808 Mar 27 13:20:55:467676 Debug( 509): need to wait 200ms before sending another message
+P3344-T-234895808 Mar 27 13:20:55:667793 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P3344-T-202885312 Mar 27 15:56:49:751288 Info ( 170): Receive signal to terminate.
+P3344-T-202885312 Mar 27 15:56:49:751385 Info ( 170): Receive signal to terminate.
+P3344-T-202885312 Mar 27 15:56:49:751738 Info ( 170): Receive signal to terminate.
+P3344-T-251681216 Mar 27 15:56:49:851155 Info ( 706): User sk02352 has signed out, PanGPA should be closed.
+P3344-T-251681216 Mar 27 15:56:49:851191 Info (  64): message queue created.
+P3344-T-251681216 Mar 27 15:56:49:851286 Debug( 283): CPanMsgQueue::deleteQueue - message queue deleted.
+P2620-T341833280 Apr 05 15:40:59:767828 Info ( 684): debug thread starts
+P2620-T348866368 Apr 05 15:40:59:768119 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P2620-T348866368 Apr 05 15:40:59:768128 Info ( 218): ################### main - PanGPA started. pid = 2620. ##################
+P2620-T348866368 Apr 05 15:40:59:768639 Debug( 150): Current login user is sk02352.
+P2620-T348866368 Apr 05 15:40:59:768851 Debug(  56): m_pConfig initialized.
+P2620-T348866368 Apr 05 15:40:59:770563 Debug( 111): HeadlessMode: 
+P2620-T348866368 Apr 05 15:40:59:826799 Debug( 304): save-user-credentials = -1
+P2620-T348866368 Apr 05 15:40:59:826813 Debug( 324): portal-2fa = no
+P2620-T348866368 Apr 05 15:40:59:826815 Debug( 335): internal-gateway-2fa = no
+P2620-T348866368 Apr 05 15:40:59:826816 Debug( 346): auto-discovery-external-gateway-2fa = no
+P2620-T348866368 Apr 05 15:40:59:826817 Debug( 357): manual-only-gateway-2fa = no
+P2620-T348866368 Apr 05 15:40:59:827123 Info ( 249): Current debug level = 5
+P2620-T348866368 Apr 05 15:40:59:828988 Debug( 362): get DisplayWelcome -1 
+P2620-T348866368 Apr 05 15:40:59:829445 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P2620-T348866368 Apr 05 15:40:59:829447 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P2620-T348866368 Apr 05 15:40:59:829589 Debug(  79): m_pUserInfo initialized.
+P2620-T348866368 Apr 05 15:40:59:829590 Debug( 159): CPanConfigMgrLinux initialized.
+P2620-T348866368 Apr 05 15:40:59:829638 Info (1037): startCommandQueue - command queue started.
+P2620-T348866368 Apr 05 15:40:59:829639 Debug( 170): CPanCommandLinux initialized.
+P2620-T348866368 Apr 05 15:40:59:829641 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P2620-T348866368 Apr 05 15:40:59:829642 Debug( 176): stats and stats manager initialized.
+P2620-T348866368 Apr 05 15:40:59:829642 Debug( 181): CPanNotification initialized.
+P2620-T348866368 Apr 05 15:40:59:829645 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P2620-T348866368 Apr 05 15:40:59:829646 Debug( 188): CPanGPIParser initialized.
+P2620-T348866368 Apr 05 15:40:59:829647 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P2620-T348866368 Apr 05 15:40:59:829649 Debug( 200): New socket created.
+P2620-T348866368 Apr 05 15:40:59:829649 Info ( 205): InitConnection ...
+P2620-T348866368 Apr 05 15:40:59:829669 Error(  72): Failed to set nosigpipe
+P2620-T348866368 Apr 05 15:40:59:829757 Debug( 443): decryptPwd - encrypted object is empty.
+P2620-T325047872 Apr 05 15:40:59:829764 Debug( 431): SelectProc started.
+P2620-T348866368 Apr 05 15:40:59:829907 Debug( 443): decryptPwd - encrypted object is empty.
+P2620-T348866368 Apr 05 15:40:59:829915 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P2620-T348866368 Apr 05 15:40:59:830223 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P2620-T348866368 Apr 05 15:40:59:830226 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P2620-T316655168 Apr 05 15:40:59:830260 Debug( 459): SelectGpiProc started
+P2620-T348866368 Apr 05 15:40:59:830264 Info (  64): message queue created.
+P2620-T348866368 Apr 05 15:40:59:830265 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P2620-T316655168 Apr 05 15:40:59:830289 Debug( 472): PanGPISocket: Listening for incoming connections...
+P2620-T316655168 Apr 05 15:40:59:830290 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P2620-T348866368 Apr 05 15:40:59:830426 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P2620-T348866368 Apr 05 15:40:59:830434 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P2620-T348866368 Apr 05 15:40:59:830454 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P2620-T308262464 Apr 05 15:40:59:830459 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P2620-T308262464 Apr 05 15:40:59:830463 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 5 wd 1 
+P2620-T308262464 Apr 05 15:40:59:830464 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P2620-T348866368 Apr 05 15:40:59:830466 Info ( 659): startGpiCommandQueue - command queue started.
+P2620-T299869760 Apr 05 15:40:59:830471 Debug( 735): GpiCommandProc enter.
+P2620-T348866368 Apr 05 15:40:59:830479 Info ( 490): StartSocketMonitor - socket monitoring started.
+P2620-T348866368 Apr 05 15:40:59:830480 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P2620-T291477056 Apr 05 15:40:59:830483 Debug(1256): SocketMonitor - socket monitoring started.
+P2620-T333440576 Apr 05 15:41:00:329751 Debug(1250): Send command to Pan Service
+P2620-T333440576 Apr 05 15:41:00:329777 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>2620</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P2620-T333440576 Apr 05 15:41:00:330058 Debug(1335): PanClient sent successful with 816 bytes
+P2620-T325047872 Apr 05 15:41:00:342413 Debug( 121): Received data from Pan Service
+P2620-T325047872 Apr 05 15:41:00:342528 Debug( 596): Current status is changed to 1.
+P2620-T325047872 Apr 05 15:41:00:342532 Debug( 174): username field is not empty. not override the username.
+P2620-T325047872 Apr 05 15:41:00:342534 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2620-T325047872 Apr 05 15:41:00:342536 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2620-T325047872 Apr 05 15:41:00:342548 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2620-T325047872 Apr 05 15:41:00:342561 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2620-T325047872 Apr 05 15:41:00:355991 Debug( 121): Received data from Pan Service
+P2620-T325047872 Apr 05 15:41:00:357397 Debug( 596): Current status is changed to 1.
+P2620-T325047872 Apr 05 15:41:00:357401 Debug( 174): username field is not empty. not override the username.
+P2620-T325047872 Apr 05 15:41:00:357402 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2620-T325047872 Apr 05 15:41:00:357404 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2620-T325047872 Apr 05 15:41:00:357414 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2620-T325047872 Apr 05 15:41:00:357424 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2620-T325047872 Apr 05 15:41:00:357441 Debug( 121): Received data from Pan Service
+P2620-T325047872 Apr 05 15:41:00:357610 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P2620-T325047872 Apr 05 15:41:00:357620 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2620-T325047872 Apr 05 15:41:00:357625 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2620-T316655168 Apr 05 15:41:03:170040 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P2620-T316655168 Apr 05 15:41:03:170051 Debug( 484): PanGPISocket: Connection Accepted
+P2620-T316655168 Apr 05 15:41:03:396276 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2620-T316655168 Apr 05 15:41:03:396389 Debug( 509): need to wait 200ms before sending another message
+P2620-T316655168 Apr 05 15:41:03:596547 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2620-T316655168 Apr 05 15:41:03:596569 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P2620-T316655168 Apr 05 15:41:03:596609 Debug( 509): need to wait 200ms before sending another message
+P2620-T316655168 Apr 05 15:41:03:796722 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2783-T-744491456 Jun 06 21:07:24:87043 Info ( 684): debug thread starts
+P2783-T-737724608 Jun 06 21:07:24:87204 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P2783-T-737724608 Jun 06 21:07:24:87212 Info ( 218): ################### main - PanGPA started. pid = 2783. ##################
+P2783-T-737724608 Jun 06 21:07:24:87560 Debug( 150): Current login user is sk02352.
+P2783-T-737724608 Jun 06 21:07:24:87790 Debug(  56): m_pConfig initialized.
+P2783-T-737724608 Jun 06 21:07:24:89736 Debug( 111): HeadlessMode: 
+P2783-T-737724608 Jun 06 21:07:24:161088 Debug( 304): save-user-credentials = -1
+P2783-T-737724608 Jun 06 21:07:24:161099 Debug( 324): portal-2fa = no
+P2783-T-737724608 Jun 06 21:07:24:161101 Debug( 335): internal-gateway-2fa = no
+P2783-T-737724608 Jun 06 21:07:24:161102 Debug( 346): auto-discovery-external-gateway-2fa = no
+P2783-T-737724608 Jun 06 21:07:24:161103 Debug( 357): manual-only-gateway-2fa = no
+P2783-T-737724608 Jun 06 21:07:24:161442 Info ( 249): Current debug level = 5
+P2783-T-737724608 Jun 06 21:07:24:163394 Debug( 362): get DisplayWelcome -1 
+P2783-T-737724608 Jun 06 21:07:24:163911 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P2783-T-737724608 Jun 06 21:07:24:163914 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P2783-T-737724608 Jun 06 21:07:24:164075 Debug(  79): m_pUserInfo initialized.
+P2783-T-737724608 Jun 06 21:07:24:164077 Debug( 159): CPanConfigMgrLinux initialized.
+P2783-T-737724608 Jun 06 21:07:24:164128 Info (1037): startCommandQueue - command queue started.
+P2783-T-737724608 Jun 06 21:07:24:164130 Debug( 170): CPanCommandLinux initialized.
+P2783-T-737724608 Jun 06 21:07:24:164133 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P2783-T-737724608 Jun 06 21:07:24:164134 Debug( 176): stats and stats manager initialized.
+P2783-T-737724608 Jun 06 21:07:24:164135 Debug( 181): CPanNotification initialized.
+P2783-T-737724608 Jun 06 21:07:24:164139 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P2783-T-737724608 Jun 06 21:07:24:164141 Debug( 188): CPanGPIParser initialized.
+P2783-T-737724608 Jun 06 21:07:24:164142 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P2783-T-737724608 Jun 06 21:07:24:164144 Debug( 200): New socket created.
+P2783-T-737724608 Jun 06 21:07:24:164145 Info ( 205): InitConnection ...
+P2783-T-737724608 Jun 06 21:07:24:164169 Error(  72): Failed to set nosigpipe
+P2783-T-737724608 Jun 06 21:07:24:164366 Debug( 443): decryptPwd - encrypted object is empty.
+P2783-T-761276864 Jun 06 21:07:24:164375 Debug( 431): SelectProc started.
+P2783-T-737724608 Jun 06 21:07:24:164583 Debug( 443): decryptPwd - encrypted object is empty.
+P2783-T-737724608 Jun 06 21:07:24:164590 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P2783-T-737724608 Jun 06 21:07:24:165023 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P2783-T-737724608 Jun 06 21:07:24:165025 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P2783-T-769669568 Jun 06 21:07:24:165070 Debug( 459): SelectGpiProc started
+P2783-T-737724608 Jun 06 21:07:24:165084 Info (  64): message queue created.
+P2783-T-737724608 Jun 06 21:07:24:165086 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P2783-T-769669568 Jun 06 21:07:24:165108 Debug( 472): PanGPISocket: Listening for incoming connections...
+P2783-T-769669568 Jun 06 21:07:24:165109 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P2783-T-737724608 Jun 06 21:07:24:165278 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P2783-T-737724608 Jun 06 21:07:24:165299 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P2783-T-737724608 Jun 06 21:07:24:165324 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P2783-T-778062272 Jun 06 21:07:24:165332 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P2783-T-778062272 Jun 06 21:07:24:165338 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 5 wd 1 
+P2783-T-778062272 Jun 06 21:07:24:165339 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P2783-T-737724608 Jun 06 21:07:24:165345 Info ( 659): startGpiCommandQueue - command queue started.
+P2783-T-786454976 Jun 06 21:07:24:165350 Debug( 735): GpiCommandProc enter.
+P2783-T-737724608 Jun 06 21:07:24:165360 Info ( 490): StartSocketMonitor - socket monitoring started.
+P2783-T-737724608 Jun 06 21:07:24:165361 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P2783-T-794847680 Jun 06 21:07:24:165367 Debug(1256): SocketMonitor - socket monitoring started.
+P2783-T-752884160 Jun 06 21:07:24:664233 Debug(1250): Send command to Pan Service
+P2783-T-752884160 Jun 06 21:07:24:664253 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>2783</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P2783-T-752884160 Jun 06 21:07:24:664515 Debug(1335): PanClient sent successful with 816 bytes
+P2783-T-761276864 Jun 06 21:07:24:678082 Debug( 121): Received data from Pan Service
+P2783-T-761276864 Jun 06 21:07:24:678261 Debug( 596): Current status is changed to 1.
+P2783-T-761276864 Jun 06 21:07:24:678269 Debug( 174): username field is not empty. not override the username.
+P2783-T-761276864 Jun 06 21:07:24:678273 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2783-T-761276864 Jun 06 21:07:24:678277 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2783-T-761276864 Jun 06 21:07:24:678293 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2783-T-761276864 Jun 06 21:07:24:678313 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2783-T-761276864 Jun 06 21:07:24:694932 Debug( 121): Received data from Pan Service
+P2783-T-761276864 Jun 06 21:07:24:696651 Debug( 596): Current status is changed to 1.
+P2783-T-761276864 Jun 06 21:07:24:696658 Debug( 174): username field is not empty. not override the username.
+P2783-T-761276864 Jun 06 21:07:24:696660 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2783-T-761276864 Jun 06 21:07:24:696662 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2783-T-761276864 Jun 06 21:07:24:696674 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2783-T-761276864 Jun 06 21:07:24:696687 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2783-T-761276864 Jun 06 21:07:24:696708 Debug( 121): Received data from Pan Service
+P2783-T-761276864 Jun 06 21:07:24:696896 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P2783-T-761276864 Jun 06 21:07:24:696911 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2783-T-761276864 Jun 06 21:07:24:696919 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2783-T-769669568 Jun 06 21:07:27:874675 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P2783-T-769669568 Jun 06 21:07:27:874699 Debug( 484): PanGPISocket: Connection Accepted
+P2783-T-769669568 Jun 06 21:07:28:114172 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2783-T-769669568 Jun 06 21:07:28:114279 Debug( 509): need to wait 200ms before sending another message
+P2783-T-769669568 Jun 06 21:07:28:314425 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2783-T-769669568 Jun 06 21:07:28:314451 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P2783-T-769669568 Jun 06 21:07:28:314516 Debug( 509): need to wait 200ms before sending another message
+P2783-T-769669568 Jun 06 21:07:28:514653 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2783-T-737724608 Jun 06 21:32:15:79697 Info ( 170): Receive signal to terminate.
+P2783-T-737724608 Jun 06 21:32:15:79710 Info ( 170): Receive signal to terminate.
+P2783-T-737724608 Jun 06 21:32:15:83023 Info ( 170): Receive signal to terminate.
+P2783-T-786454976 Jun 06 21:32:15:152981 Info ( 706): User sk02352 has signed out, PanGPA should be closed.
+P2783-T-786454976 Jun 06 21:32:15:152996 Info (  64): message queue created.
+P2783-T-786454976 Jun 06 21:32:15:153021 Debug( 283): CPanMsgQueue::deleteQueue - message queue deleted.
+P2621-T-1958742464 Jun 06 21:35:45:448224 Info ( 684): debug thread starts
+P2621-T-1951557824 Jun 06 21:35:45:448414 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P2621-T-1951557824 Jun 06 21:35:45:448424 Info ( 218): ################### main - PanGPA started. pid = 2621. ##################
+P2621-T-1951557824 Jun 06 21:35:45:448848 Debug( 150): Current login user is sk02352.
+P2621-T-1951557824 Jun 06 21:35:45:449062 Debug(  56): m_pConfig initialized.
+P2621-T-1951557824 Jun 06 21:35:45:450759 Debug( 111): HeadlessMode: 
+P2621-T-1951557824 Jun 06 21:35:45:528004 Debug( 304): save-user-credentials = -1
+P2621-T-1951557824 Jun 06 21:35:45:528028 Debug( 324): portal-2fa = no
+P2621-T-1951557824 Jun 06 21:35:45:528030 Debug( 335): internal-gateway-2fa = no
+P2621-T-1951557824 Jun 06 21:35:45:528031 Debug( 346): auto-discovery-external-gateway-2fa = no
+P2621-T-1951557824 Jun 06 21:35:45:528032 Debug( 357): manual-only-gateway-2fa = no
+P2621-T-1951557824 Jun 06 21:35:45:528356 Info ( 249): Current debug level = 5
+P2621-T-1951557824 Jun 06 21:35:45:530261 Debug( 362): get DisplayWelcome -1 
+P2621-T-1951557824 Jun 06 21:35:45:530766 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P2621-T-1951557824 Jun 06 21:35:45:530768 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P2621-T-1951557824 Jun 06 21:35:45:530922 Debug(  79): m_pUserInfo initialized.
+P2621-T-1951557824 Jun 06 21:35:45:530924 Debug( 159): CPanConfigMgrLinux initialized.
+P2621-T-1951557824 Jun 06 21:35:45:530980 Info (1037): startCommandQueue - command queue started.
+P2621-T-1951557824 Jun 06 21:35:45:530981 Debug( 170): CPanCommandLinux initialized.
+P2621-T-1951557824 Jun 06 21:35:45:530983 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P2621-T-1951557824 Jun 06 21:35:45:530984 Debug( 176): stats and stats manager initialized.
+P2621-T-1951557824 Jun 06 21:35:45:530985 Debug( 181): CPanNotification initialized.
+P2621-T-1951557824 Jun 06 21:35:45:530988 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P2621-T-1951557824 Jun 06 21:35:45:530989 Debug( 188): CPanGPIParser initialized.
+P2621-T-1951557824 Jun 06 21:35:45:530990 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P2621-T-1951557824 Jun 06 21:35:45:530991 Debug( 200): New socket created.
+P2621-T-1951557824 Jun 06 21:35:45:530992 Info ( 205): InitConnection ...
+P2621-T-1951557824 Jun 06 21:35:45:531023 Error(  72): Failed to set nosigpipe
+P2621-T-1951557824 Jun 06 21:35:45:531108 Debug( 443): decryptPwd - encrypted object is empty.
+P2621-T-1975527872 Jun 06 21:35:45:531115 Debug( 431): SelectProc started.
+P2621-T-1951557824 Jun 06 21:35:45:531274 Debug( 443): decryptPwd - encrypted object is empty.
+P2621-T-1951557824 Jun 06 21:35:45:531282 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P2621-T-1951557824 Jun 06 21:35:45:531612 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P2621-T-1951557824 Jun 06 21:35:45:531614 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P2621-T-1951557824 Jun 06 21:35:45:531648 Info (  64): message queue created.
+P2621-T-1983920576 Jun 06 21:35:45:531650 Debug( 459): SelectGpiProc started
+P2621-T-1951557824 Jun 06 21:35:45:531660 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P2621-T-1983920576 Jun 06 21:35:45:531679 Debug( 472): PanGPISocket: Listening for incoming connections...
+P2621-T-1983920576 Jun 06 21:35:45:531681 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P2621-T-1951557824 Jun 06 21:35:45:531870 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P2621-T-1951557824 Jun 06 21:35:45:531880 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P2621-T-1951557824 Jun 06 21:35:45:531902 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P2621-T-1992313280 Jun 06 21:35:45:531906 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P2621-T-1992313280 Jun 06 21:35:45:531908 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 5 wd 1 
+P2621-T-1992313280 Jun 06 21:35:45:531909 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P2621-T-1951557824 Jun 06 21:35:45:531920 Info ( 659): startGpiCommandQueue - command queue started.
+P2621-T-2000705984 Jun 06 21:35:45:531922 Debug( 735): GpiCommandProc enter.
+P2621-T-1951557824 Jun 06 21:35:45:531943 Info ( 490): StartSocketMonitor - socket monitoring started.
+P2621-T-1951557824 Jun 06 21:35:45:531944 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P2621-T-2080377280 Jun 06 21:35:45:531949 Debug(1256): SocketMonitor - socket monitoring started.
+P2621-T-1967135168 Jun 06 21:35:46:31094 Debug(1250): Send command to Pan Service
+P2621-T-1967135168 Jun 06 21:35:46:31124 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>2621</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P2621-T-1967135168 Jun 06 21:35:46:31414 Debug(1335): PanClient sent successful with 816 bytes
+P2621-T-1975527872 Jun 06 21:35:46:43325 Debug( 121): Received data from Pan Service
+P2621-T-1975527872 Jun 06 21:35:46:43482 Debug( 596): Current status is changed to 1.
+P2621-T-1975527872 Jun 06 21:35:46:43491 Debug( 174): username field is not empty. not override the username.
+P2621-T-1975527872 Jun 06 21:35:46:43495 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2621-T-1975527872 Jun 06 21:35:46:43499 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2621-T-1975527872 Jun 06 21:35:46:43514 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2621-T-1975527872 Jun 06 21:35:46:43536 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2621-T-1975527872 Jun 06 21:35:46:57545 Debug( 121): Received data from Pan Service
+P2621-T-1975527872 Jun 06 21:35:46:58957 Debug( 596): Current status is changed to 1.
+P2621-T-1975527872 Jun 06 21:35:46:58963 Debug( 174): username field is not empty. not override the username.
+P2621-T-1975527872 Jun 06 21:35:46:58964 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2621-T-1975527872 Jun 06 21:35:46:58967 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2621-T-1975527872 Jun 06 21:35:46:58980 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2621-T-1975527872 Jun 06 21:35:46:58989 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2621-T-1975527872 Jun 06 21:35:46:59009 Debug( 121): Received data from Pan Service
+P2621-T-1975527872 Jun 06 21:35:46:59172 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P2621-T-1975527872 Jun 06 21:35:46:59182 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2621-T-1975527872 Jun 06 21:35:46:59188 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2621-T-1983920576 Jun 06 21:35:48:680196 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P2621-T-1983920576 Jun 06 21:35:48:680216 Debug( 484): PanGPISocket: Connection Accepted
+P2621-T-1983920576 Jun 06 21:35:48:893769 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2621-T-1983920576 Jun 06 21:35:48:893879 Debug( 509): need to wait 200ms before sending another message
+P2621-T-1983920576 Jun 06 21:35:49:94023 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2621-T-1983920576 Jun 06 21:35:49:94045 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P2621-T-1983920576 Jun 06 21:35:49:94103 Debug( 509): need to wait 200ms before sending another message
+P2621-T-1983920576 Jun 06 21:35:49:294216 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2621-T-1951557824 Jun 06 21:38:27:531409 Info ( 170): Receive signal to terminate.
+P2621-T-1951557824 Jun 06 21:38:27:531516 Info ( 170): Receive signal to terminate.
+P2621-T-1951557824 Jun 06 21:38:27:533479 Info ( 170): Receive signal to terminate.
+P2621-T-2000705984 Jun 06 21:38:27:560325 Info ( 706): User sk02352 has signed out, PanGPA should be closed.
+P2621-T-2000705984 Jun 06 21:38:27:560337 Info (  64): message queue created.
+P2621-T-2000705984 Jun 06 21:38:27:560352 Debug( 283): CPanMsgQueue::deleteQueue - message queue deleted.
+P2582-T-1296042432 Jun 06 21:45:43:519959 Info ( 684): debug thread starts
+P2582-T-1288849600 Jun 06 21:45:43:520114 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P2582-T-1288849600 Jun 06 21:45:43:520124 Info ( 218): ################### main - PanGPA started. pid = 2582. ##################
+P2582-T-1288849600 Jun 06 21:45:43:520515 Debug( 150): Current login user is sk02352.
+P2582-T-1288849600 Jun 06 21:45:43:520712 Debug(  56): m_pConfig initialized.
+P2582-T-1288849600 Jun 06 21:45:43:522072 Debug( 111): HeadlessMode: 
+P2582-T-1288849600 Jun 06 21:45:43:582916 Debug( 304): save-user-credentials = -1
+P2582-T-1288849600 Jun 06 21:45:43:582928 Debug( 324): portal-2fa = no
+P2582-T-1288849600 Jun 06 21:45:43:582929 Debug( 335): internal-gateway-2fa = no
+P2582-T-1288849600 Jun 06 21:45:43:582931 Debug( 346): auto-discovery-external-gateway-2fa = no
+P2582-T-1288849600 Jun 06 21:45:43:582932 Debug( 357): manual-only-gateway-2fa = no
+P2582-T-1288849600 Jun 06 21:45:43:583272 Info ( 249): Current debug level = 5
+P2582-T-1288849600 Jun 06 21:45:43:585075 Debug( 362): get DisplayWelcome -1 
+P2582-T-1288849600 Jun 06 21:45:43:585550 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P2582-T-1288849600 Jun 06 21:45:43:585553 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P2582-T-1288849600 Jun 06 21:45:43:585700 Debug(  79): m_pUserInfo initialized.
+P2582-T-1288849600 Jun 06 21:45:43:585702 Debug( 159): CPanConfigMgrLinux initialized.
+P2582-T-1288849600 Jun 06 21:45:43:585750 Info (1037): startCommandQueue - command queue started.
+P2582-T-1288849600 Jun 06 21:45:43:585751 Debug( 170): CPanCommandLinux initialized.
+P2582-T-1288849600 Jun 06 21:45:43:585753 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P2582-T-1288849600 Jun 06 21:45:43:585754 Debug( 176): stats and stats manager initialized.
+P2582-T-1288849600 Jun 06 21:45:43:585754 Debug( 181): CPanNotification initialized.
+P2582-T-1288849600 Jun 06 21:45:43:585758 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P2582-T-1288849600 Jun 06 21:45:43:585759 Debug( 188): CPanGPIParser initialized.
+P2582-T-1288849600 Jun 06 21:45:43:585760 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P2582-T-1288849600 Jun 06 21:45:43:585761 Debug( 200): New socket created.
+P2582-T-1288849600 Jun 06 21:45:43:585762 Info ( 205): InitConnection ...
+P2582-T-1288849600 Jun 06 21:45:43:585790 Error(  72): Failed to set nosigpipe
+P2582-T-1288849600 Jun 06 21:45:43:585872 Debug( 443): decryptPwd - encrypted object is empty.
+P2582-T-1312827840 Jun 06 21:45:43:585878 Debug( 431): SelectProc started.
+P2582-T-1288849600 Jun 06 21:45:43:586032 Debug( 443): decryptPwd - encrypted object is empty.
+P2582-T-1288849600 Jun 06 21:45:43:586037 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P2582-T-1288849600 Jun 06 21:45:43:586358 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P2582-T-1288849600 Jun 06 21:45:43:586360 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P2582-T-1321220544 Jun 06 21:45:43:586396 Debug( 459): SelectGpiProc started
+P2582-T-1288849600 Jun 06 21:45:43:586404 Info (  64): message queue created.
+P2582-T-1288849600 Jun 06 21:45:43:586406 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P2582-T-1321220544 Jun 06 21:45:43:586432 Debug( 472): PanGPISocket: Listening for incoming connections...
+P2582-T-1321220544 Jun 06 21:45:43:586433 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P2582-T-1288849600 Jun 06 21:45:43:586594 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P2582-T-1288849600 Jun 06 21:45:43:586603 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P2582-T-1288849600 Jun 06 21:45:43:586625 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P2582-T-1329613248 Jun 06 21:45:43:586628 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P2582-T-1329613248 Jun 06 21:45:43:586631 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 5 wd 1 
+P2582-T-1329613248 Jun 06 21:45:43:586631 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P2582-T-1288849600 Jun 06 21:45:43:586638 Info ( 659): startGpiCommandQueue - command queue started.
+P2582-T-1409288640 Jun 06 21:45:43:586641 Debug( 735): GpiCommandProc enter.
+P2582-T-1288849600 Jun 06 21:45:43:586649 Info ( 490): StartSocketMonitor - socket monitoring started.
+P2582-T-1288849600 Jun 06 21:45:43:586650 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P2582-T-1417681344 Jun 06 21:45:43:586654 Debug(1256): SocketMonitor - socket monitoring started.
+P2582-T-1304435136 Jun 06 21:45:44:85943 Debug(1250): Send command to Pan Service
+P2582-T-1304435136 Jun 06 21:45:44:85960 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>2582</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P2582-T-1304435136 Jun 06 21:45:44:86140 Debug(1335): PanClient sent successful with 816 bytes
+P2582-T-1312827840 Jun 06 21:45:44:102779 Debug( 121): Received data from Pan Service
+P2582-T-1312827840 Jun 06 21:45:44:102935 Debug( 596): Current status is changed to 1.
+P2582-T-1312827840 Jun 06 21:45:44:102941 Debug( 174): username field is not empty. not override the username.
+P2582-T-1312827840 Jun 06 21:45:44:102943 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2582-T-1312827840 Jun 06 21:45:44:102946 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2582-T-1312827840 Jun 06 21:45:44:102962 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2582-T-1312827840 Jun 06 21:45:44:102981 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2582-T-1312827840 Jun 06 21:45:44:117571 Debug( 121): Received data from Pan Service
+P2582-T-1312827840 Jun 06 21:45:44:118998 Debug( 596): Current status is changed to 1.
+P2582-T-1312827840 Jun 06 21:45:44:119004 Debug( 174): username field is not empty. not override the username.
+P2582-T-1312827840 Jun 06 21:45:44:119006 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2582-T-1312827840 Jun 06 21:45:44:119009 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2582-T-1312827840 Jun 06 21:45:44:119021 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2582-T-1312827840 Jun 06 21:45:44:119046 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2582-T-1312827840 Jun 06 21:45:44:119064 Debug( 121): Received data from Pan Service
+P2582-T-1312827840 Jun 06 21:45:44:119219 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P2582-T-1312827840 Jun 06 21:45:44:119232 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2582-T-1312827840 Jun 06 21:45:44:119237 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2582-T-1321220544 Jun 06 21:45:46:896788 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P2582-T-1321220544 Jun 06 21:45:46:896812 Debug( 484): PanGPISocket: Connection Accepted
+P2582-T-1321220544 Jun 06 21:45:47:139313 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2582-T-1321220544 Jun 06 21:45:47:139422 Debug( 509): need to wait 200ms before sending another message
+P2582-T-1321220544 Jun 06 21:45:47:339551 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2582-T-1321220544 Jun 06 21:45:47:339568 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P2582-T-1321220544 Jun 06 21:45:47:339609 Debug( 509): need to wait 200ms before sending another message
+P2582-T-1321220544 Jun 06 21:45:47:539732 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2582-T-1296042432 Jun 06 21:49:00:939576 Info ( 170): Receive signal to terminate.
+P2582-T-1296042432 Jun 06 21:49:00:939604 Info ( 170): Receive signal to terminate.
+P2582-T-1288849600 Jun 06 21:49:00:949251 Info ( 170): Receive signal to terminate.
+P2582-T-1409288640 Jun 06 21:49:01:621839 Info ( 706): User sk02352 has signed out, PanGPA should be closed.
+P2582-T-1409288640 Jun 06 21:49:01:621872 Info (  64): message queue created.
+P2582-T-1409288640 Jun 06 21:49:01:621935 Debug( 283): CPanMsgQueue::deleteQueue - message queue deleted.
+P2628-T-2065697216 Jun 13 12:04:03:548179 Info ( 684): debug thread starts
+P2628-T-2059208896 Jun 13 12:04:03:548386 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P2628-T-2059208896 Jun 13 12:04:03:548397 Info ( 218): ################### main - PanGPA started. pid = 2628. ##################
+P2628-T-2059208896 Jun 13 12:04:03:548809 Debug( 150): Current login user is sk02352.
+P2628-T-2059208896 Jun 13 12:04:03:549045 Debug(  56): m_pConfig initialized.
+P2628-T-2059208896 Jun 13 12:04:03:550779 Debug( 111): HeadlessMode: 
+P2628-T-2059208896 Jun 13 12:04:03:607916 Debug( 304): save-user-credentials = -1
+P2628-T-2059208896 Jun 13 12:04:03:607927 Debug( 324): portal-2fa = no
+P2628-T-2059208896 Jun 13 12:04:03:607929 Debug( 335): internal-gateway-2fa = no
+P2628-T-2059208896 Jun 13 12:04:03:607930 Debug( 346): auto-discovery-external-gateway-2fa = no
+P2628-T-2059208896 Jun 13 12:04:03:607931 Debug( 357): manual-only-gateway-2fa = no
+P2628-T-2059208896 Jun 13 12:04:03:608216 Info ( 249): Current debug level = 5
+P2628-T-2059208896 Jun 13 12:04:03:610143 Debug( 362): get DisplayWelcome -1 
+P2628-T-2059208896 Jun 13 12:04:03:610615 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P2628-T-2059208896 Jun 13 12:04:03:610618 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P2628-T-2059208896 Jun 13 12:04:03:610762 Debug(  79): m_pUserInfo initialized.
+P2628-T-2059208896 Jun 13 12:04:03:610764 Debug( 159): CPanConfigMgrLinux initialized.
+P2628-T-2059208896 Jun 13 12:04:03:610805 Info (1037): startCommandQueue - command queue started.
+P2628-T-2059208896 Jun 13 12:04:03:610806 Debug( 170): CPanCommandLinux initialized.
+P2628-T-2059208896 Jun 13 12:04:03:610808 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P2628-T-2059208896 Jun 13 12:04:03:610808 Debug( 176): stats and stats manager initialized.
+P2628-T-2059208896 Jun 13 12:04:03:610809 Debug( 181): CPanNotification initialized.
+P2628-T-2059208896 Jun 13 12:04:03:610813 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P2628-T-2059208896 Jun 13 12:04:03:610813 Debug( 188): CPanGPIParser initialized.
+P2628-T-2059208896 Jun 13 12:04:03:610814 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P2628-T-2059208896 Jun 13 12:04:03:610815 Debug( 200): New socket created.
+P2628-T-2059208896 Jun 13 12:04:03:610816 Info ( 205): InitConnection ...
+P2628-T-2059208896 Jun 13 12:04:03:610835 Error(  72): Failed to set nosigpipe
+P2628-T-2059208896 Jun 13 12:04:03:610910 Debug( 443): decryptPwd - encrypted object is empty.
+P2628-T2139088448 Jun 13 12:04:03:610916 Debug( 431): SelectProc started.
+P2628-T-2059208896 Jun 13 12:04:03:611072 Debug( 443): decryptPwd - encrypted object is empty.
+P2628-T-2059208896 Jun 13 12:04:03:611083 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P2628-T-2059208896 Jun 13 12:04:03:611401 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P2628-T-2059208896 Jun 13 12:04:03:611403 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P2628-T-2059208896 Jun 13 12:04:03:611439 Info (  64): message queue created.
+P2628-T-2059208896 Jun 13 12:04:03:611442 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P2628-T2130695744 Jun 13 12:04:03:611446 Debug( 459): SelectGpiProc started
+P2628-T2130695744 Jun 13 12:04:03:611481 Debug( 472): PanGPISocket: Listening for incoming connections...
+P2628-T2130695744 Jun 13 12:04:03:611482 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P2628-T-2059208896 Jun 13 12:04:03:611631 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P2628-T-2059208896 Jun 13 12:04:03:611639 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P2628-T-2059208896 Jun 13 12:04:03:611664 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P2628-T2122303040 Jun 13 12:04:03:611670 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P2628-T2122303040 Jun 13 12:04:03:611673 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 5 wd 1 
+P2628-T2122303040 Jun 13 12:04:03:611674 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P2628-T-2059208896 Jun 13 12:04:03:611680 Info ( 659): startGpiCommandQueue - command queue started.
+P2628-T2113910336 Jun 13 12:04:03:611683 Debug( 735): GpiCommandProc enter.
+P2628-T-2059208896 Jun 13 12:04:03:611700 Info ( 490): StartSocketMonitor - socket monitoring started.
+P2628-T-2059208896 Jun 13 12:04:03:611702 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P2628-T2105517632 Jun 13 12:04:03:611708 Debug(1256): SocketMonitor - socket monitoring started.
+P2628-T2147481152 Jun 13 12:04:04:110952 Debug(1250): Send command to Pan Service
+P2628-T2147481152 Jun 13 12:04:04:110969 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>2628</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P2628-T2147481152 Jun 13 12:04:04:111158 Debug(1335): PanClient sent successful with 816 bytes
+P2628-T2139088448 Jun 13 12:04:04:123658 Debug( 121): Received data from Pan Service
+P2628-T2139088448 Jun 13 12:04:04:123846 Debug( 596): Current status is changed to 1.
+P2628-T2139088448 Jun 13 12:04:04:123855 Debug( 174): username field is not empty. not override the username.
+P2628-T2139088448 Jun 13 12:04:04:123858 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2628-T2139088448 Jun 13 12:04:04:123862 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2628-T2139088448 Jun 13 12:04:04:123882 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2628-T2139088448 Jun 13 12:04:04:123908 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2628-T2139088448 Jun 13 12:04:04:137512 Debug( 121): Received data from Pan Service
+P2628-T2139088448 Jun 13 12:04:04:139027 Debug( 596): Current status is changed to 1.
+P2628-T2139088448 Jun 13 12:04:04:139033 Debug( 174): username field is not empty. not override the username.
+P2628-T2139088448 Jun 13 12:04:04:139034 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2628-T2139088448 Jun 13 12:04:04:139037 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2628-T2139088448 Jun 13 12:04:04:139047 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2628-T2139088448 Jun 13 12:04:04:139059 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2628-T2139088448 Jun 13 12:04:04:139077 Debug( 121): Received data from Pan Service
+P2628-T2139088448 Jun 13 12:04:04:139233 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P2628-T2139088448 Jun 13 12:04:04:139245 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2628-T2139088448 Jun 13 12:04:04:139250 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2628-T2130695744 Jun 13 12:04:06:757152 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P2628-T2130695744 Jun 13 12:04:06:757166 Debug( 484): PanGPISocket: Connection Accepted
+P2628-T2130695744 Jun 13 12:04:07:6819 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2628-T2130695744 Jun 13 12:04:07:6940 Debug( 509): need to wait 200ms before sending another message
+P2628-T2130695744 Jun 13 12:04:07:207138 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2628-T2130695744 Jun 13 12:04:07:207162 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P2628-T2130695744 Jun 13 12:04:07:207205 Debug( 509): need to wait 200ms before sending another message
+P2628-T2130695744 Jun 13 12:04:07:407336 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2628-T-2059208896 Jun 17 16:35:08:467609 Info ( 170): Receive signal to terminate.
+P2628-T-2059208896 Jun 17 16:35:08:472177 Info ( 170): Receive signal to terminate.
+P2628-T2113910336 Jun 17 16:35:09:267398 Info ( 706): User sk02352 has signed out, PanGPA should be closed.
+P2628-T2113910336 Jun 17 16:35:09:267432 Info (  64): message queue created.
+P2628-T2113910336 Jun 17 16:35:09:267464 Debug( 283): CPanMsgQueue::deleteQueue - message queue deleted.
+P2575-T-1210059200 Jun 19 17:13:45:683304 Info ( 684): debug thread starts
+P2575-T-1203382464 Jun 19 17:13:45:683515 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P2575-T-1203382464 Jun 19 17:13:45:683527 Info ( 218): ################### main - PanGPA started. pid = 2575. ##################
+P2575-T-1203382464 Jun 19 17:13:45:683904 Debug( 150): Current login user is sk02352.
+P2575-T-1203382464 Jun 19 17:13:45:684130 Debug(  56): m_pConfig initialized.
+P2575-T-1203382464 Jun 19 17:13:45:685881 Debug( 111): HeadlessMode: 
+P2575-T-1203382464 Jun 19 17:13:45:745670 Debug( 304): save-user-credentials = -1
+P2575-T-1203382464 Jun 19 17:13:45:745682 Debug( 324): portal-2fa = no
+P2575-T-1203382464 Jun 19 17:13:45:745684 Debug( 335): internal-gateway-2fa = no
+P2575-T-1203382464 Jun 19 17:13:45:745685 Debug( 346): auto-discovery-external-gateway-2fa = no
+P2575-T-1203382464 Jun 19 17:13:45:745686 Debug( 357): manual-only-gateway-2fa = no
+P2575-T-1203382464 Jun 19 17:13:45:745990 Info ( 249): Current debug level = 5
+P2575-T-1203382464 Jun 19 17:13:45:747887 Debug( 362): get DisplayWelcome -1 
+P2575-T-1203382464 Jun 19 17:13:45:748373 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P2575-T-1203382464 Jun 19 17:13:45:748375 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P2575-T-1203382464 Jun 19 17:13:45:748525 Debug(  79): m_pUserInfo initialized.
+P2575-T-1203382464 Jun 19 17:13:45:748528 Debug( 159): CPanConfigMgrLinux initialized.
+P2575-T-1203382464 Jun 19 17:13:45:748564 Info (1037): startCommandQueue - command queue started.
+P2575-T-1203382464 Jun 19 17:13:45:748565 Debug( 170): CPanCommandLinux initialized.
+P2575-T-1203382464 Jun 19 17:13:45:748567 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P2575-T-1203382464 Jun 19 17:13:45:748568 Debug( 176): stats and stats manager initialized.
+P2575-T-1203382464 Jun 19 17:13:45:748569 Debug( 181): CPanNotification initialized.
+P2575-T-1203382464 Jun 19 17:13:45:748572 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P2575-T-1203382464 Jun 19 17:13:45:748573 Debug( 188): CPanGPIParser initialized.
+P2575-T-1203382464 Jun 19 17:13:45:748574 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P2575-T-1203382464 Jun 19 17:13:45:748575 Debug( 200): New socket created.
+P2575-T-1203382464 Jun 19 17:13:45:748576 Info ( 205): InitConnection ...
+P2575-T-1203382464 Jun 19 17:13:45:748599 Error(  72): Failed to set nosigpipe
+P2575-T-1203382464 Jun 19 17:13:45:748681 Debug( 443): decryptPwd - encrypted object is empty.
+P2575-T-1226844608 Jun 19 17:13:45:748687 Debug( 431): SelectProc started.
+P2575-T-1203382464 Jun 19 17:13:45:748849 Debug( 443): decryptPwd - encrypted object is empty.
+P2575-T-1203382464 Jun 19 17:13:45:748854 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P2575-T-1203382464 Jun 19 17:13:45:749173 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P2575-T-1203382464 Jun 19 17:13:45:749176 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P2575-T-1203382464 Jun 19 17:13:45:749207 Info (  64): message queue created.
+P2575-T-1203382464 Jun 19 17:13:45:749210 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P2575-T-1235237312 Jun 19 17:13:45:749211 Debug( 459): SelectGpiProc started
+P2575-T-1235237312 Jun 19 17:13:45:749237 Debug( 472): PanGPISocket: Listening for incoming connections...
+P2575-T-1235237312 Jun 19 17:13:45:749238 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P2575-T-1203382464 Jun 19 17:13:45:749369 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P2575-T-1203382464 Jun 19 17:13:45:749385 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P2575-T-1203382464 Jun 19 17:13:45:749413 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P2575-T-1243630016 Jun 19 17:13:45:749417 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P2575-T-1243630016 Jun 19 17:13:45:749420 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 5 wd 1 
+P2575-T-1243630016 Jun 19 17:13:45:749420 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P2575-T-1203382464 Jun 19 17:13:45:749433 Info ( 659): startGpiCommandQueue - command queue started.
+P2575-T-1252022720 Jun 19 17:13:45:749437 Debug( 735): GpiCommandProc enter.
+P2575-T-1203382464 Jun 19 17:13:45:749454 Info ( 490): StartSocketMonitor - socket monitoring started.
+P2575-T-1203382464 Jun 19 17:13:45:749456 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P2575-T-1260415424 Jun 19 17:13:45:749463 Debug(1256): SocketMonitor - socket monitoring started.
+P2575-T-1218451904 Jun 19 17:13:46:248657 Debug(1250): Send command to Pan Service
+P2575-T-1218451904 Jun 19 17:13:46:248674 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>2575</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P2575-T-1218451904 Jun 19 17:13:46:248842 Debug(1335): PanClient sent successful with 816 bytes
+P2575-T-1226844608 Jun 19 17:13:46:261565 Debug( 121): Received data from Pan Service
+P2575-T-1226844608 Jun 19 17:13:46:261770 Debug( 596): Current status is changed to 1.
+P2575-T-1226844608 Jun 19 17:13:46:261779 Debug( 174): username field is not empty. not override the username.
+P2575-T-1226844608 Jun 19 17:13:46:261783 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2575-T-1226844608 Jun 19 17:13:46:261787 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2575-T-1226844608 Jun 19 17:13:46:261808 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-1226844608 Jun 19 17:13:46:261827 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-1226844608 Jun 19 17:13:46:274549 Debug( 121): Received data from Pan Service
+P2575-T-1226844608 Jun 19 17:13:46:276049 Debug( 596): Current status is changed to 1.
+P2575-T-1226844608 Jun 19 17:13:46:276067 Debug( 174): username field is not empty. not override the username.
+P2575-T-1226844608 Jun 19 17:13:46:276068 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2575-T-1226844608 Jun 19 17:13:46:276071 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2575-T-1226844608 Jun 19 17:13:46:276082 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-1226844608 Jun 19 17:13:46:276092 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-1226844608 Jun 19 17:13:46:276111 Debug( 121): Received data from Pan Service
+P2575-T-1226844608 Jun 19 17:13:46:276265 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P2575-T-1226844608 Jun 19 17:13:46:276276 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-1226844608 Jun 19 17:13:46:276298 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-1235237312 Jun 19 17:13:49:79624 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P2575-T-1235237312 Jun 19 17:13:49:79648 Debug( 484): PanGPISocket: Connection Accepted
+P2575-T-1235237312 Jun 19 17:13:49:304803 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2575-T-1235237312 Jun 19 17:13:49:304887 Debug( 509): need to wait 200ms before sending another message
+P2575-T-1235237312 Jun 19 17:13:49:505019 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-1235237312 Jun 19 17:13:49:505038 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P2575-T-1235237312 Jun 19 17:13:49:505080 Debug( 509): need to wait 200ms before sending another message
+P2575-T-1235237312 Jun 19 17:13:49:705211 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2575-T-708839872 Jun 21 12:27:32:706882 Info ( 684): debug thread starts
+P2575-T-701479104 Jun 21 12:27:32:707347 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P2575-T-701479104 Jun 21 12:27:32:707360 Info ( 218): ################### main - PanGPA started. pid = 2575. ##################
+P2575-T-701479104 Jun 21 12:27:32:707769 Debug( 150): Current login user is sk02352.
+P2575-T-701479104 Jun 21 12:27:32:709067 Debug(  56): m_pConfig initialized.
+P2575-T-701479104 Jun 21 12:27:32:710762 Debug( 111): HeadlessMode: 
+P2575-T-701479104 Jun 21 12:27:32:779753 Debug( 304): save-user-credentials = -1
+P2575-T-701479104 Jun 21 12:27:32:779767 Debug( 324): portal-2fa = no
+P2575-T-701479104 Jun 21 12:27:32:779769 Debug( 335): internal-gateway-2fa = no
+P2575-T-701479104 Jun 21 12:27:32:779771 Debug( 346): auto-discovery-external-gateway-2fa = no
+P2575-T-701479104 Jun 21 12:27:32:779772 Debug( 357): manual-only-gateway-2fa = no
+P2575-T-701479104 Jun 21 12:27:32:780124 Info ( 249): Current debug level = 5
+P2575-T-701479104 Jun 21 12:27:32:782431 Debug( 362): get DisplayWelcome -1 
+P2575-T-701479104 Jun 21 12:27:32:782998 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P2575-T-701479104 Jun 21 12:27:32:783000 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P2575-T-701479104 Jun 21 12:27:32:783172 Debug(  79): m_pUserInfo initialized.
+P2575-T-701479104 Jun 21 12:27:32:783174 Debug( 159): CPanConfigMgrLinux initialized.
+P2575-T-701479104 Jun 21 12:27:32:783246 Info (1037): startCommandQueue - command queue started.
+P2575-T-701479104 Jun 21 12:27:32:783247 Debug( 170): CPanCommandLinux initialized.
+P2575-T-701479104 Jun 21 12:27:32:783249 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P2575-T-701479104 Jun 21 12:27:32:783250 Debug( 176): stats and stats manager initialized.
+P2575-T-701479104 Jun 21 12:27:32:783251 Debug( 181): CPanNotification initialized.
+P2575-T-701479104 Jun 21 12:27:32:783254 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P2575-T-701479104 Jun 21 12:27:32:783255 Debug( 188): CPanGPIParser initialized.
+P2575-T-701479104 Jun 21 12:27:32:783256 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P2575-T-701479104 Jun 21 12:27:32:783257 Debug( 200): New socket created.
+P2575-T-701479104 Jun 21 12:27:32:783258 Info ( 205): InitConnection ...
+P2575-T-701479104 Jun 21 12:27:32:783286 Error(  72): Failed to set nosigpipe
+P2575-T-701479104 Jun 21 12:27:32:783396 Debug( 443): decryptPwd - encrypted object is empty.
+P2575-T-725625280 Jun 21 12:27:32:783421 Debug( 431): SelectProc started.
+P2575-T-701479104 Jun 21 12:27:32:783596 Debug( 443): decryptPwd - encrypted object is empty.
+P2575-T-701479104 Jun 21 12:27:32:783606 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P2575-T-701479104 Jun 21 12:27:32:784012 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P2575-T-701479104 Jun 21 12:27:32:784017 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P2575-T-805308864 Jun 21 12:27:32:784064 Debug( 459): SelectGpiProc started
+P2575-T-701479104 Jun 21 12:27:32:784072 Info (  64): message queue created.
+P2575-T-701479104 Jun 21 12:27:32:784082 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P2575-T-805308864 Jun 21 12:27:32:784108 Debug( 472): PanGPISocket: Listening for incoming connections...
+P2575-T-805308864 Jun 21 12:27:32:784110 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P2575-T-701479104 Jun 21 12:27:32:784235 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P2575-T-701479104 Jun 21 12:27:32:784248 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P2575-T-701479104 Jun 21 12:27:32:784289 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P2575-T-813701568 Jun 21 12:27:32:784299 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P2575-T-813701568 Jun 21 12:27:32:784305 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 5 wd 1 
+P2575-T-813701568 Jun 21 12:27:32:784306 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P2575-T-701479104 Jun 21 12:27:32:784312 Info ( 659): startGpiCommandQueue - command queue started.
+P2575-T-822094272 Jun 21 12:27:32:784322 Debug( 735): GpiCommandProc enter.
+P2575-T-701479104 Jun 21 12:27:32:784332 Info ( 490): StartSocketMonitor - socket monitoring started.
+P2575-T-701479104 Jun 21 12:27:32:784333 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P2575-T-830486976 Jun 21 12:27:32:784343 Debug(1256): SocketMonitor - socket monitoring started.
+P2575-T-717232576 Jun 21 12:27:33:283416 Debug(1250): Send command to Pan Service
+P2575-T-717232576 Jun 21 12:27:33:283445 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>2575</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P2575-T-717232576 Jun 21 12:27:33:283737 Debug(1335): PanClient sent successful with 816 bytes
+P2575-T-725625280 Jun 21 12:27:33:296916 Debug( 121): Received data from Pan Service
+P2575-T-725625280 Jun 21 12:27:33:297148 Debug( 596): Current status is changed to 1.
+P2575-T-725625280 Jun 21 12:27:33:297157 Debug( 174): username field is not empty. not override the username.
+P2575-T-725625280 Jun 21 12:27:33:297160 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2575-T-725625280 Jun 21 12:27:33:297164 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2575-T-725625280 Jun 21 12:27:33:297658 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-725625280 Jun 21 12:27:33:297689 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-725625280 Jun 21 12:27:33:312069 Debug( 121): Received data from Pan Service
+P2575-T-725625280 Jun 21 12:27:33:313942 Debug( 596): Current status is changed to 1.
+P2575-T-725625280 Jun 21 12:27:33:313951 Debug( 174): username field is not empty. not override the username.
+P2575-T-725625280 Jun 21 12:27:33:313954 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2575-T-725625280 Jun 21 12:27:33:313957 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2575-T-725625280 Jun 21 12:27:33:313974 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-725625280 Jun 21 12:27:33:313990 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-725625280 Jun 21 12:27:33:314017 Debug( 121): Received data from Pan Service
+P2575-T-725625280 Jun 21 12:27:33:314245 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P2575-T-725625280 Jun 21 12:27:33:314265 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-725625280 Jun 21 12:27:33:314277 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-805308864 Jun 21 12:27:36:300869 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P2575-T-805308864 Jun 21 12:27:36:300910 Debug( 484): PanGPISocket: Connection Accepted
+P2575-T-805308864 Jun 21 12:27:36:528008 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2575-T-805308864 Jun 21 12:27:36:528120 Debug( 509): need to wait 200ms before sending another message
+P2575-T-805308864 Jun 21 12:27:36:728266 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2575-T-805308864 Jun 21 12:27:36:728285 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P2575-T-805308864 Jun 21 12:27:36:728338 Debug( 509): need to wait 200ms before sending another message
+P2575-T-805308864 Jun 21 12:27:36:928533 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2575-T-701479104 Jun 21 15:06:27:400375 Info ( 170): Receive signal to terminate.
+P2575-T-701479104 Jun 21 15:06:27:400397 Info ( 170): Receive signal to terminate.
+P2575-T-822094272 Jun 21 15:06:28:47074 Info ( 706): User sk02352 has signed out, PanGPA should be closed.
+P2575-T-822094272 Jun 21 15:06:28:47091 Info (  64): message queue created.
+P2575-T-822094272 Jun 21 15:06:28:47113 Debug( 283): CPanMsgQueue::deleteQueue - message queue deleted.
+P2625-T-1346374080 Jun 28 15:44:29:917904 Info ( 684): debug thread starts
+P2625-T-1339500736 Jun 28 15:44:29:918131 Info ( 132): debug level is 5, log path is /home/sk02352/.GlobalProtect
+P2625-T-1339500736 Jun 28 15:44:29:918141 Info ( 218): ################### main - PanGPA started. pid = 2625. ##################
+P2625-T-1339500736 Jun 28 15:44:29:918498 Debug( 150): Current login user is sk02352.
+P2625-T-1339500736 Jun 28 15:44:29:918768 Debug(  56): m_pConfig initialized.
+P2625-T-1339500736 Jun 28 15:44:29:920399 Debug( 111): HeadlessMode: 
+P2625-T-1339500736 Jun 28 15:44:29:981178 Debug( 304): save-user-credentials = -1
+P2625-T-1339500736 Jun 28 15:44:29:981191 Debug( 324): portal-2fa = no
+P2625-T-1339500736 Jun 28 15:44:29:981192 Debug( 335): internal-gateway-2fa = no
+P2625-T-1339500736 Jun 28 15:44:29:981193 Debug( 346): auto-discovery-external-gateway-2fa = no
+P2625-T-1339500736 Jun 28 15:44:29:981194 Debug( 357): manual-only-gateway-2fa = no
+P2625-T-1339500736 Jun 28 15:44:29:981496 Info ( 249): Current debug level = 5
+P2625-T-1339500736 Jun 28 15:44:29:983354 Debug( 362): get DisplayWelcome -1 
+P2625-T-1339500736 Jun 28 15:44:29:983877 Debug(  75): CPanUserInformation::clear - user information for portal  were all cleared include encrypted info.
+P2625-T-1339500736 Jun 28 15:44:29:983880 Debug(  82): CPanUserInformation::clearBackup - backup EP cleared.
+P2625-T-1339500736 Jun 28 15:44:29:984028 Debug(  79): m_pUserInfo initialized.
+P2625-T-1339500736 Jun 28 15:44:29:984030 Debug( 159): CPanConfigMgrLinux initialized.
+P2625-T-1339500736 Jun 28 15:44:29:984074 Info (1037): startCommandQueue - command queue started.
+P2625-T-1339500736 Jun 28 15:44:29:984075 Debug( 170): CPanCommandLinux initialized.
+P2625-T-1339500736 Jun 28 15:44:29:984077 Debug(  25): CPanBaseStatsMgr::init - m_stats initialized.
+P2625-T-1339500736 Jun 28 15:44:29:984078 Debug( 176): stats and stats manager initialized.
+P2625-T-1339500736 Jun 28 15:44:29:984079 Debug( 181): CPanNotification initialized.
+P2625-T-1339500736 Jun 28 15:44:29:984082 Debug( 115): CPanParser::handleServiceData - new receiver created. 
+P2625-T-1339500736 Jun 28 15:44:29:984083 Debug( 188): CPanGPIParser initialized.
+P2625-T-1339500736 Jun 28 15:44:29:984083 Info ( 193): Socket is NULL while user is not switched out! recreate socket.
+P2625-T-1339500736 Jun 28 15:44:29:984084 Debug( 200): New socket created.
+P2625-T-1339500736 Jun 28 15:44:29:984085 Info ( 205): InitConnection ...
+P2625-T-1339500736 Jun 28 15:44:29:984110 Error(  72): Failed to set nosigpipe
+P2625-T-1339500736 Jun 28 15:44:29:984201 Debug( 443): decryptPwd - encrypted object is empty.
+P2625-T-1363159488 Jun 28 15:44:29:984207 Debug( 431): SelectProc started.
+P2625-T-1339500736 Jun 28 15:44:29:984359 Debug( 443): decryptPwd - encrypted object is empty.
+P2625-T-1339500736 Jun 28 15:44:29:984367 Debug(2137): GetSamlAttribute - samlsessionid = , samlusername = 
+P2625-T-1339500736 Jun 28 15:44:29:984681 Debug( 345): CPanSocket::OnConnect - portal message sent.
+P2625-T-1339500736 Jun 28 15:44:29:984683 Info ( 219): Connecting to Pan MS Service end. connected = 1
+P2625-T-1339500736 Jun 28 15:44:29:984719 Info (  64): message queue created.
+P2625-T-1339500736 Jun 28 15:44:29:984721 Debug( 834): CPanClientLinux::initDefaultBrowserFile enter 
+P2625-T-1371552192 Jun 28 15:44:29:984724 Debug( 459): SelectGpiProc started
+P2625-T-1371552192 Jun 28 15:44:29:984757 Debug( 472): PanGPISocket: Listening for incoming connections...
+P2625-T-1371552192 Jun 28 15:44:29:984758 Debug( 414): PanGPISocket::AcceptConnection: Listening...
+P2625-T-1339500736 Jun 28 15:44:29:984863 Debug( 879): CCPanClientLinux::initDefaultBrowserFileNotify enter 
+P2625-T-1339500736 Jun 28 15:44:29:984874 Debug( 913): CCPanClientLinux::initDefaultBrowserThread enter 
+P2625-T-1339500736 Jun 28 15:44:29:984895 Debug( 264): CPanClientLinux::initInstance - ##### client initialization completed.
+P2625-T-1379944896 Jun 28 15:44:29:984898 Debug(1092): CPanClientLinux::defaultBrowserCallBack start. 
+P2625-T-1379944896 Jun 28 15:44:29:984901 Debug(1105): CPanClientLinux::defaultBrowserCallBack fd 5 wd 1 
+P2625-T-1379944896 Jun 28 15:44:29:984901 Debug(1112): CPanClientLinux::defaultBrowserCallBack start read 
+P2625-T-1339500736 Jun 28 15:44:29:984907 Info ( 659): startGpiCommandQueue - command queue started.
+P2625-T-1388337600 Jun 28 15:44:29:984910 Debug( 735): GpiCommandProc enter.
+P2625-T-1339500736 Jun 28 15:44:29:984920 Info ( 490): StartSocketMonitor - socket monitoring started.
+P2625-T-1339500736 Jun 28 15:44:29:984921 Info (  72): CPanMSAgent::Start - GpiCommandProc started.
+P2625-T-1396730304 Jun 28 15:44:29:984927 Debug(1256): SocketMonitor - socket monitoring started.
+P2625-T-1354766784 Jun 28 15:44:30:484178 Debug(1250): Send command to Pan Service
+P2625-T-1354766784 Jun 28 15:44:30:484199 Debug(1267): Command = <request><type>portal</type><portal></portal><pid>2625</pid><user>___empty_username___</user><passwd>*</passwd><path>/home/sk02352/.GlobalProtect</path><checkupdate>no</checkupdate><allow-cached-portal>yes</allow-cached-portal><remember-me>yes</remember-me><retrieve-cache-only>no</retrieve-cache-only><manual-select-gateway-ip></manual-select-gateway-ip><portal-certificate-verification>yes</portal-certificate-verification><win-user>sk02352</win-user><user-profile-type>0</user-profile-type><preferred-gateway></preferred-gateway><preferred-gateway-address></preferred-gateway-address><saved-user></saved-user><saved-passwd></saved-passwd><portal-2fa>no</portal-2fa><use-ssl-tunnel>no</use-ssl-tunnel><gid>1001</gid><uid>1001</uid><domain></domain><default-browser>0</default-browser></request>
+P2625-T-1354766784 Jun 28 15:44:30:484438 Debug(1335): PanClient sent successful with 816 bytes
+P2625-T-1363159488 Jun 28 15:44:30:496460 Debug( 121): Received data from Pan Service
+P2625-T-1363159488 Jun 28 15:44:30:496661 Debug( 596): Current status is changed to 1.
+P2625-T-1363159488 Jun 28 15:44:30:496673 Debug( 174): username field is not empty. not override the username.
+P2625-T-1363159488 Jun 28 15:44:30:496676 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2625-T-1363159488 Jun 28 15:44:30:496682 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Retrieving configuration...</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2625-T-1363159488 Jun 28 15:44:30:496705 Debug( 391): Command = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2625-T-1363159488 Jun 28 15:44:30:496734 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Retrieving configuration...</state><error></error><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2625-T-1363159488 Jun 28 15:44:30:510221 Debug( 121): Received data from Pan Service
+P2625-T-1363159488 Jun 28 15:44:30:511728 Debug( 596): Current status is changed to 1.
+P2625-T-1363159488 Jun 28 15:44:30:511747 Debug( 174): username field is not empty. not override the username.
+P2625-T-1363159488 Jun 28 15:44:30:511749 Debug( 203): CPanBaseReceiver::HandleStatus - found discover-ready tag. value = no.
+P2625-T-1363159488 Jun 28 15:44:30:511752 Debug( 264): message type from the service = status 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>status</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+	<gateway-list name="gateway-list" type="external" user="">
+		<no-gateway>true</no-gateway>
+	</gateway-list>
+	<mobile-network-type>0</mobile-network-type>
+</response>
+
+P2625-T-1363159488 Jun 28 15:44:30:511765 Debug( 391): Command = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2625-T-1363159488 Jun 28 15:44:30:511775 Debug(1675): ===> response sent to GPI = <response><type>status</type><state>Disconnected</state><error></error><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2625-T-1363159488 Jun 28 15:44:30:511796 Debug( 121): Received data from Pan Service
+P2625-T-1363159488 Jun 28 15:44:30:511949 Debug( 266): message type from the service = portal 
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+	<type>portal</type>
+	<status>Disconnected</status>
+	<protocol/>
+	<portal-config-version>0</portal-config-version>
+	<error-must-show/>
+	<error-must-show-level>error</error-must-show-level>
+	<error/>
+	<product-version>5.2.4-14</product-version>
+	<product-code/>
+	<portal-status>Invalid portal</portal-status>
+	<user-name/>
+	<username-type>regular</username-type>
+	<state>Disconnected</state>
+	<check-version>no</check-version>
+	<portal/>
+	<discover-ready>no</discover-ready>
+	<mdm-is-enabled>no</mdm-is-enabled>
+</response>
+
+P2625-T-1363159488 Jun 28 15:44:30:511961 Debug( 391): Command = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2625-T-1363159488 Jun 28 15:44:30:511968 Debug(1675): ===> response sent to GPI = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2625-T-1371552192 Jun 28 15:44:33:178971 Debug( 427): PanGPISocket::AcceptConnection: Accepted
+P2625-T-1371552192 Jun 28 15:44:33:178988 Debug( 484): PanGPISocket: Connection Accepted
+P2625-T-1371552192 Jun 28 15:44:33:409679 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2625-T-1371552192 Jun 28 15:44:33:409785 Debug( 509): need to wait 200ms before sending another message
+P2625-T-1371552192 Jun 28 15:44:33:609911 Debug( 385): handleGpiRetrieveLastState ===> response = <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2625-T-1371552192 Jun 28 15:44:33:609927 Debug( 304): PanGPISocket::ReceiveMsg: SUCCESS = <request><type>get_config</type><uid>1001</uid></request>
+P2625-T-1371552192 Jun 28 15:44:33:609971 Debug( 509): need to wait 200ms before sending another message
+P2625-T-1371552192 Jun 28 15:44:33:810096 Debug( 986): ===> response sent to GPI = <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>

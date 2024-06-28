@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/sk02352/Pictures/Screenshots/Screenshot%20from%202024-06-19%2021-55-22.png" added="2024-06-19T20:55:22.700894Z" modified="2024-06-19T21:04:50.993536Z" visited="2024-06-19T20:55:22.700895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-06-19T20:55:22.700896Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-06-19T21:04:50.993534Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sk02352/Pictures/Screenshots/Screenshot%20from%202024-06-19%2021-55-46.png" added="2024-06-19T20:55:46.206611Z" modified="2024-06-19T21:04:35.969478Z" visited="2024-06-19T20:55:46.206612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-06-19T20:55:46.206613Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-06-19T21:04:35.969476Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sk02352/Pictures/Screenshots/Screenshot%20from%202024-06-19%2021-56-13.png" added="2024-06-19T20:56:13.262917Z" modified="2024-06-19T21:05:02.339050Z" visited="2024-06-19T20:56:13.262918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2024-06-19T20:56:13.262919Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-06-19T21:05:02.339048Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

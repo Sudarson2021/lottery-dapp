@@ -1,0 +1,4 @@
+autoconfig.thunderbird.net:HSTS	0	19769	1739581438542,1,0
+services.addons.thunderbird.net:HSTS	0	19769	1739581437522,1,0
+location.services.mozilla.com:HSTS	0	19769	1739581438351,1,1
+start.thunderbird.net^partitionKey=%28http%2Cthunderbird.net%29:HSTS	0	19769	1739581438017,1,0

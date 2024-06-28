@@ -1,0 +1,25 @@
+2024/03/06-14:17:11.684 8cfd Reusing MANIFEST /home/sk02352/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/06-14:17:11.684 8cfd Recovering log #24
+2024/03/06-14:17:11.686 8cfd Reusing old log /home/sk02352/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000024.log 
+2024/03/06-14:21:02.313 8cfe Level-0 table #30: started
+2024/03/06-14:21:02.330 8cfe Level-0 table #30: 1813121 bytes OK
+2024/03/06-14:21:02.332 8cfe Delete type=0 #24
+2024/03/06-14:22:00.675 8cfe Compacting 1@1 + 2@2 files
+2024/03/06-14:22:00.694 8cfe Generated table #31@1: 6125 keys, 2154029 bytes
+2024/03/06-14:22:00.711 8cfe Generated table #32@1: 9247 keys, 1549431 bytes
+2024/03/06-14:22:00.711 8cfe Compacted 1@1 + 2@2 files => 3703460 bytes
+2024/03/06-14:22:00.713 8cfe compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/03/06-14:22:00.713 8cfe Delete type=2 #26
+2024/03/06-14:22:00.713 8cfe Delete type=2 #27
+2024/03/06-14:22:00.713 8cfe Delete type=2 #30
+2024/03/06-15:30:48.491 8cfe Level-0 table #34: started
+2024/03/06-15:30:48.509 8cfe Level-0 table #34: 1265628 bytes OK
+2024/03/06-15:30:48.512 8cfe Delete type=0 #29
+2024/03/06-16:21:36.249 8cfe Compacting 1@1 + 2@2 files
+2024/03/06-16:21:36.284 8cfe Generated table #35@1: 6079 keys, 2150725 bytes
+2024/03/06-16:21:36.301 8cfe Generated table #36@1: 8865 keys, 1371644 bytes
+2024/03/06-16:21:36.301 8cfe Compacted 1@1 + 2@2 files => 3522369 bytes
+2024/03/06-16:21:36.304 8cfe compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/03/06-16:21:36.304 8cfe Delete type=2 #34
+2024/03/06-16:21:36.304 8cfe Delete type=2 #31
+2024/03/06-16:21:36.304 8cfe Delete type=2 #32

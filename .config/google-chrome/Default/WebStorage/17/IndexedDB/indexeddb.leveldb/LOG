@@ -1,0 +1,6 @@
+2024/02/16-18:14:58.733 8cfd Creating DB /home/sk02352/.config/google-chrome/Default/WebStorage/17/IndexedDB/indexeddb.leveldb since it was missing.
+2024/02/16-18:14:58.739 8cfd Reusing MANIFEST /home/sk02352/.config/google-chrome/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/02/16-18:16:49.886 8cfe Level-0 table #5: started
+2024/02/16-18:16:49.889 8cfe Level-0 table #5: 1364 bytes OK
+2024/02/16-18:16:49.891 8cfe Delete type=0 #3
+2024/02/16-18:16:49.891 8cfe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

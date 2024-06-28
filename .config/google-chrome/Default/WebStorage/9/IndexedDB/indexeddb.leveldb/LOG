@@ -1,0 +1,15 @@
+2024/02/16-21:15:28.147 8cfd Reusing MANIFEST /home/sk02352/.config/google-chrome/Default/WebStorage/9/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/02/16-21:15:28.147 8cfd Recovering log #3
+2024/02/16-21:15:28.147 8cfd Reusing old log /home/sk02352/.config/google-chrome/Default/WebStorage/9/IndexedDB/indexeddb.leveldb/000003.log 
+2024/02/18-19:20:43.992 8cfe Level-0 table #5: started
+2024/02/18-19:20:44.002 8cfe Level-0 table #5: 716765 bytes OK
+2024/02/18-19:20:44.006 8cfe Delete type=0 #3
+2024/02/20-12:41:07.945 8d0a Level-0 table #7: started
+2024/02/20-12:41:07.979 8d0a Level-0 table #7: 746112 bytes OK
+2024/02/20-12:41:07.983 8d0a Delete type=0 #4
+2024/02/22-13:06:02.329 8cfd Compacting 1@1 + 1@2 files
+2024/02/22-13:06:02.333 8cfd Generated table #8@1: 37 keys, 10543 bytes
+2024/02/22-13:06:02.334 8cfd Compacted 1@1 + 1@2 files => 10543 bytes
+2024/02/22-13:06:02.337 8cfd compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/22-13:06:02.337 8cfd Delete type=2 #5
+2024/02/22-13:06:02.337 8cfd Delete type=2 #7

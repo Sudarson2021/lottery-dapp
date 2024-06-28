@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<link rel="stylesheet" href="./style.css" />
+</head>
+<html>
+  <body class="options">
+  	<div class="empty-column"></div>
+  	<div class="settings-column">
+  		<div class="content js-content">
+		  	<h1>Settings</h1>
+		  	<h2>Gas Price Provider</h2>
+		  	<p>Select your preferred gas price provider.</p> 
+		  	<ul class="js-providers">
+		  	</ul>
+	  	</div>
+  		<div class="content content-eip1559 js-content-eip1559">
+		  	<h1>What's EIP-1559?</h1>
+  			<p>EIP-1559 is an upgrade to the way transactions are included in the blockchain. See this great explainer below for more details: </p>
+			  <iframe width="560" height="315" src="https://www.youtube.com/embed/YZeXrChJ5n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			  <h2>What's the future for this extension?</h2>
+			  <p>As described in the explainer above, with the introduction of EIP-1559 the fees will be split  between two variables: the base fee and priority fee (also known as miner tip). At present, immediately after the upgrade, how some of these variables will play out, especially the priority fee is still uncertain.</p>
+			  <p>For now, the extension will show the current base fee (or a recommended base fee). So, you can get a better understanding of the overall congestion of the network. The recommended base fee is currently set to be 2 times the existing base fee. This provides enough certainty that your transaction will be included according to the base fee. If you over pay the base fee, you will be refunded. So don't worry about overpaying. <strong>However, it's important to note, you need more than just the base fee to get your transaction included</strong>, you also need to choose the priority fee.</p>
+			  <p>With regards to the priority fee, this is still uncertain and estimating what a good priority fee is subject to a lot of speculation. With this uncertainty, I'd rather wait and see how the network stabilizes on these amounts. I will be keeping a close on 3rd party providers and/or consider writing a simpler oracle to help users determine how much to price their priority fee.</p>
+			  <p>I will be rapidly updating this extension as new information appears. I appreciate the patience & hope to make sure the transition is smooth for everyone. For the latest updates follow me on Twitter: <a href="https://twitter.com/nieldlr" target="_blank">@nieldlr</a>. We might get information that helps users before I get time to update the extension. So please do consider keeping an eye there.</p>
+	  	</div>
+  	</div>
+  	<div class="empty-column"></div>
+
+  	<script type="text/javascript" src="./libraries/purify.min.js"></script>
+  	<script type="text/javascript" src="./options.js"></script>
+  </body>
+</html>

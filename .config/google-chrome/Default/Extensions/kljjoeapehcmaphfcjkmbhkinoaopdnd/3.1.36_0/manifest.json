@@ -1,0 +1,53 @@
+{
+   "action": {
+      "default_popup": "popup.html"
+   },
+   "author": "HyperWrite",
+   "background": {
+      "service_worker": "background.bundle.js"
+   },
+   "content_scripts": [ {
+      "js": [ "googleDocsUtil.bundle.js", "googleDocsInject.bundle.js" ],
+      "matches": [ "https://docs.google.com/document/d/*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": false,
+      "js": [ "googleDocsCanvasInjector.bundle.js" ],
+      "matches": [ "https://docs.google.com/document/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "extensionInstalled.bundle.js" ],
+      "matches": [ "https://app.hyperwriteai.com/*", "https://hyperwriteai.com/*", "http://localhost:3000/*", "http://localhost:3001/*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": false,
+      "exclude_matches": [ "https://auth.hyperwriteai.com/*", "https://accounts.google.com/*" ],
+      "js": [ "app.bundle.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": false,
+      "js": [ "eventTrap.bundle.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Personal Assistant by HyperWrite is the first AI agent that can operate your browser. It's like self-driving mode for the web.",
+   "differential_fingerprint": "1.43a58c99188204907540e15c934db5e0b2bf8266492006d5ae5b422caa1a45cd",
+   "externally_connectable": {
+      "matches": [ "https://app.hyperwriteai.com/*", "https://hyperwriteai.com/*", "http://localhost:3000/*", "http://localhost:3001/*" ]
+   },
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0EDjaO1xcYQvxe+v01H46ejc6dG2QOaZAhZslnXRAi10VYzarP616WU/pDYCRMY6H34DmqTV8rzRmvIZfBdoT+GLxL2epjITm6I+7rec88HzY/VfqoMgC39Wu0aNRkeuNrEmDs1cGsgEjw/5GknEwU/epzLuGoueTpqu4hyKH7z+TYQkQ8dzI3+mhfX6pMN+BFrDl/oh792VNDv1ZZ6D0XMw3GtDtyoz2/Th0QJ45xQiqcRR0CaTdY+laTRRDQTlY9ZyXFNKj/BzlZy6Mh5iYDWTXFHqy1kBf0RRIg1O6IzIMRFX6R7rx57h7xg6ryUpwV5wB5esPWFq/pFur98RsQIDAQAB",
+   "manifest_version": 3,
+   "name": "HyperWrite - AI Assistant",
+   "permissions": [ "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.36",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "index.html", "content/inject.js", "hyperlogo-public.png", "*.png", "*.svg", "*.gif", "*.woff", "*.tff", "content/gDocsAnnotatedCanvas.js" ]
+   } ]
+}

@@ -1,0 +1,65 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "Dell Inc.",
+    "Product": "Latitude 7420",
+    "Family": "Latitude"
+  },
+  "BIOS": {
+    "Vendor": "Dell Inc.",
+    "Version": "1.32.0"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v4",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "9a49"
+    }
+  ],
+  "RAM": 32.6,
+  "Partitions": [
+    958.1,
+    1.7,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "310mmx170mm",
+      "Resolution": "3840x2160",
+      "Frequency": "59.98"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_GB",
+  "Timezone": "Europe/London",
+  "Install": {
+    "Media": "Ubuntu 22.04.2 LTS \"Jammy Jellyfish\" - Release amd64 (20230223)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_crypto",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "48": "console_setup",
+      "51": "console_setup",
+      "57": "prepare",
+      "66": "partman",
+      "107": "partman",
+      "418": "start_install",
+      "440": "timezone",
+      "482": "usersetup",
+      "528": "user_done",
+      "748": "done"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+   "background": {
+      "page": "src/background.html",
+      "persistent": false
+   },
+   "browser_action": {
+      "default_icon": "static/icon.png",
+      "default_popup": "src/popup.html",
+      "default_title": "Ethereum Gas Price"
+   },
+   "description": "A simple free utility for your browser that helps you decide how much to spend on your next transaction.",
+   "icons": {
+      "128": "static/icon128.png",
+      "16": "static/icon16.png",
+      "48": "static/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkhMtiPRBe7rEOjzp9gPGKvYToX6hIn3q/NcxRAS9KcELT2sJwpelCKfPnqW9cm2H6P/216qq/hmFt7hpUaMSi6Sl9hW0AB3g1tG5TbIkHeiJF9nMQa8PmHYKkDvIksqP+8X2vaJzoyc8tAfLv2+4TaUMKraYociyKc8/hVxMbcUF6LJe6TU6/uLW5JjMsCGb4A/BFQDhSUMjOv9TQFxr+DjnfgQVEv4y63CP7IUW0UOhgJteEi6vBQp/zOUAVM/7jNg1dbNKHeGIJ6J8BZEke29dB6kt84UYAJ/mQnPMWrSrc1eCWROVPtwYMzdjTOh/MauA+F57j1ZfLOnJ475cCQIDAQAB",
+   "manifest_version": 2,
+   "name": "Ethereum Gas Price Extension",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "src/options.html"
+   },
+   "permissions": [ "alarms", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.3"
+}

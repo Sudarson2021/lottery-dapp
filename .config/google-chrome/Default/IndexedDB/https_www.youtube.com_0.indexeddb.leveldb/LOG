@@ -1,0 +1,15 @@
+2024/03/06-15:17:10.708 8cfd Reusing MANIFEST /home/sk02352/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/06-15:17:10.709 8cfd Recovering log #4
+2024/03/06-15:17:10.709 8cfd Reusing old log /home/sk02352/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2024/03/06-15:17:44.760 8cfe Level-0 table #8: started
+2024/03/06-15:17:44.762 8cfe Level-0 table #8: 1457 bytes OK
+2024/03/06-15:17:44.764 8cfe Delete type=0 #4
+2024/03/06-15:17:44.764 8cfe Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/03/06-15:17:44.764 8cfe Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 3080 : 1
+2024/03/06-15:17:44.764 8cfe Compacting 1@1 + 1@2 files
+2024/03/06-15:17:44.767 8cfe Generated table #9@1: 393 keys, 48746 bytes
+2024/03/06-15:17:44.767 8cfe Compacted 1@1 + 1@2 files => 48746 bytes
+2024/03/06-15:17:44.769 8cfe compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/06-15:17:44.769 8cfe Delete type=2 #5
+2024/03/06-15:17:44.769 8cfe Delete type=2 #8
+2024/03/06-15:17:44.769 8cfe Manual compaction at level-1 from '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 3080 : 1 .. (end); will stop at (end)

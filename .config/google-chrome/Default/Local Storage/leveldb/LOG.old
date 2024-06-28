@@ -1,0 +1,46 @@
+2024/06/19-17:14:33.045 4 Reusing MANIFEST /home/sk02352/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/19-17:14:33.048 4 Recovering log #374
+2024/06/19-17:14:33.048 4 Level-0 table #377: started
+2024/06/19-17:14:33.051 4 Level-0 table #377: 36379 bytes OK
+2024/06/19-17:14:33.057 4 Delete type=0 #374
+2024/06/19-17:14:33.058 6 Compacting 4@0 + 3@1 files
+2024/06/19-17:14:33.088 6 Generated table #379@0: 1206 keys, 2102052 bytes
+2024/06/19-17:14:33.098 6 Generated table #380@0: 4338 keys, 348915 bytes
+2024/06/19-17:14:33.098 6 Compacted 4@0 + 3@1 files => 2450967 bytes
+2024/06/19-17:14:33.103 6 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/06/19-17:14:33.104 6 Delete type=2 #375
+2024/06/19-17:14:33.104 6 Delete type=2 #377
+2024/06/19-17:14:33.104 6 Delete type=2 #372
+2024/06/19-17:14:33.104 6 Delete type=2 #278
+2024/06/19-17:14:33.104 6 Delete type=2 #368
+2024/06/19-17:14:33.104 6 Delete type=2 #370
+2024/06/19-17:14:33.104 6 Delete type=2 #367
+2024/06/19-17:16:42.431 6 Level-0 table #382: started
+2024/06/19-17:16:42.437 6 Level-0 table #382: 24892 bytes OK
+2024/06/19-17:16:42.439 6 Delete type=0 #378
+2024/06/19-17:50:11.888 6 Level-0 table #384: started
+2024/06/19-17:50:11.893 6 Level-0 table #384: 26966 bytes OK
+2024/06/19-17:50:11.895 6 Delete type=0 #381
+2024/06/19-18:36:42.554 6 Level-0 table #386: started
+2024/06/19-18:36:42.557 6 Level-0 table #386: 20137 bytes OK
+2024/06/19-18:36:42.559 6 Delete type=0 #383
+2024/06/19-20:20:01.358 6 Level-0 table #388: started
+2024/06/19-20:20:01.362 6 Level-0 table #388: 18838 bytes OK
+2024/06/19-20:20:01.365 6 Delete type=0 #385
+2024/06/19-20:20:01.365 6 Compacting 4@0 + 2@1 files
+2024/06/19-20:20:01.392 6 Generated table #389@0: 1095 keys, 2101940 bytes
+2024/06/19-20:20:01.399 6 Generated table #390@0: 4468 keys, 358766 bytes
+2024/06/19-20:20:01.399 6 Compacted 4@0 + 2@1 files => 2460706 bytes
+2024/06/19-20:20:01.401 6 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/06/19-20:20:01.401 6 Delete type=2 #384
+2024/06/19-20:20:01.401 6 Delete type=2 #388
+2024/06/19-20:20:01.401 6 Delete type=2 #386
+2024/06/19-20:20:01.401 6 Delete type=2 #379
+2024/06/19-20:20:01.401 6 Delete type=2 #382
+2024/06/19-20:20:01.401 6 Delete type=2 #380
+2024/06/19-21:56:50.393 6 Level-0 table #392: started
+2024/06/19-21:56:50.397 6 Level-0 table #392: 24830 bytes OK
+2024/06/19-21:56:50.400 6 Delete type=0 #387
+2024/06/19-22:01:51.779 4 Level-0 table #394: started
+2024/06/19-22:01:51.784 4 Level-0 table #394: 20170 bytes OK
+2024/06/19-22:01:51.787 4 Delete type=0 #391

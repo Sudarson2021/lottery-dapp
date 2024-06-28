@@ -1,0 +1,58 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/icon128.png",
+         "16": "icons/icon16.png",
+         "19": "icons/icon19.png",
+         "32": "icons/icon32.png",
+         "38": "icons/icon38.png",
+         "48": "icons/icon48.png",
+         "512": "icons/icon512.png",
+         "64": "icons/icon64.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "BNB Chain Wallet"
+   },
+   "browser_specific_settings": {
+      "gecko": {
+         "id": "{0a395005-c941-4030-83c9-018ee43e3414}"
+      }
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Alt+Shift+B",
+            "linux": "Alt+Shift+B",
+            "mac": "Alt+Shift+B",
+            "windows": "Alt+Shift+B"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.f8359c69251389c89bf77fae11dfd5e13bf26f830ccdebb2c2c2afe3e3e3bde8",
+   "homepage_url": "https://www.bnbchain.org",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5lW2dVMhVrrpcxj8kA9dAZrJuS5taycOj9+bo75iCrfokTKaZKaJ0RpfNRgST6fm2GwG1AVvWy180e0uZ2V3uTk8uzIw0K8nYlGYrbeLb756oHcDVVHrl41+YKwkKwYYHq9wW4U5slX2SKnahePJyG5ziInXZfymtUkocARkNEx9CPUKHWIDtRg668IvB+yy9JilAk37uCxUHDQ2svQEYhuk2ypUHJirPO0RckfQZsLfooNuR1t/9sQeGqoPo9BaAWMZkU7wBPJo/Lich75+G3JlvzIdlQ1Zu5lc5NYbJ24swesCf+nau/hMA8IZAEjnNuNil6ukJV1Lh7po5KesfQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "tabs", "storage", "clipboardWrite", "identity" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.18.0"
+}

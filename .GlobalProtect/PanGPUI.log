@@ -1,0 +1,321 @@
+P2980-T-298404288 Mar 13 12:56:52:713627 Info ( 684): debug thread starts
+P2980-T-134899520 Mar 13 12:56:53:711697 Debug(  82): PanGPA connection successful
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P2980-T-134899520 Mar 13 12:56:53:909849 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P2980-T-134899520 Mar 13 12:56:53:956162 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2980-T-134899520 Mar 13 12:56:53:957712 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P2980-T-134899520 Mar 13 12:56:54:273687 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2980-T-134899520 Mar 13 12:56:54:273809 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P2980-T-134899520 Mar 13 12:56:54:369599 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2980-T-134899520 Mar 13 12:56:54:371087 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P2980-T-134899520 Mar 13 12:56:54:371093 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P2980-T-134899520 Mar 13 12:56:54:371095 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P2980-T-134899520 Mar 13 12:56:54:371096 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P2980-T-134899520 Mar 13 12:56:54:371098 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P2980-T-134899520 Mar 13 12:56:54:371098 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P2980-T-134899520 Mar 13 12:56:54:371099 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0
+"Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/1”"
+"Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/1”"
+"Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/1”"
+P2980-T-134899520 Mar 18 17:16:24:956057 Debug(3996): PanGPUI: Starting cleanup...
+P2980-T-134899520 Mar 18 17:16:24:956463 Debug(4045): PanGPUI: Cleanup complete
+P2980-T-298404288 Mar 18 17:16:25:790146 Info ( 690): debug thread ends
+P2980-T-134899520 Mar 18 17:16:26:907415 Debug( 107): Abort socket
+failed to unregister service "org.kde.StatusNotifierItem-2980-2"
+ICE default IO error handler doing an exit(), pid = 2980, errno = 32
+P3736-T41928256 Mar 27 13:20:54:31774 Info ( 684): debug thread starts
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P3736-T382253248 Mar 27 13:20:55:35348 Debug(  82): PanGPA connection successful
+P3736-T382253248 Mar 27 13:20:55:220960 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P3736-T382253248 Mar 27 13:20:55:254684 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P3736-T382253248 Mar 27 13:20:55:256335 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P3736-T382253248 Mar 27 13:20:55:588246 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P3736-T382253248 Mar 27 13:20:55:588369 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P3736-T382253248 Mar 27 13:20:55:667862 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P3736-T382253248 Mar 27 13:20:55:669616 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P3736-T382253248 Mar 27 13:20:55:669624 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P3736-T382253248 Mar 27 13:20:55:669626 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P3736-T382253248 Mar 27 13:20:55:669628 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P3736-T382253248 Mar 27 13:20:55:669630 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P3736-T382253248 Mar 27 13:20:55:669631 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P3736-T382253248 Mar 27 13:20:55:669632 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0
+"Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/1”"
+"Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/1”"
+P3736-T382253248 Mar 27 15:56:49:716228 Debug(3996): PanGPUI: Starting cleanup...
+P3736-T382253248 Mar 27 15:56:49:716473 Debug(4045): PanGPUI: Cleanup complete
+P3736-T41928256 Mar 27 15:56:50:613571 Info ( 690): debug thread ends
+P3736-T382253248 Mar 27 15:56:50:854421 Debug( 107): Abort socket
+failed to unregister service "org.kde.StatusNotifierItem-3736-2"
+ICE default IO error handler doing an exit(), pid = 3736, errno = 32
+P2978-T-738200000 Apr 05 15:41:02:168689 Info ( 684): debug thread starts
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P2978-T-303855424 Apr 05 15:41:03:170370 Debug(  82): PanGPA connection successful
+P2978-T-303855424 Apr 05 15:41:03:349564 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P2978-T-303855424 Apr 05 15:41:03:383205 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2978-T-303855424 Apr 05 15:41:03:384871 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P2978-T-303855424 Apr 05 15:41:03:677434 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2978-T-303855424 Apr 05 15:41:03:677574 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P2978-T-303855424 Apr 05 15:41:03:796828 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2978-T-303855424 Apr 05 15:41:03:798301 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P2978-T-303855424 Apr 05 15:41:03:798304 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P2978-T-303855424 Apr 05 15:41:03:798305 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P2978-T-303855424 Apr 05 15:41:03:798307 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P2978-T-303855424 Apr 05 15:41:03:798308 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P2978-T-303855424 Apr 05 15:41:03:798308 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P2978-T-303855424 Apr 05 15:41:03:798309 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0
+P3114-T243254848 Jun 06 21:07:26:873370 Info ( 684): debug thread starts
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P3114-T408189120 Jun 06 21:07:27:875985 Debug(  82): PanGPA connection successful
+P3114-T408189120 Jun 06 21:07:28:61905 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P3114-T408189120 Jun 06 21:07:28:99948 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P3114-T408189120 Jun 06 21:07:28:101801 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P3114-T408189120 Jun 06 21:07:28:425760 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P3114-T408189120 Jun 06 21:07:28:425897 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P3114-T408189120 Jun 06 21:07:28:514736 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P3114-T408189120 Jun 06 21:07:28:516336 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P3114-T408189120 Jun 06 21:07:28:516340 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P3114-T408189120 Jun 06 21:07:28:516341 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P3114-T408189120 Jun 06 21:07:28:516343 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P3114-T408189120 Jun 06 21:07:28:516344 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P3114-T408189120 Jun 06 21:07:28:516345 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P3114-T408189120 Jun 06 21:07:28:516346 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0
+P3114-T408189120 Jun 06 21:32:15:38704 Debug(3996): PanGPUI: Starting cleanup...
+P3114-T408189120 Jun 06 21:32:15:38956 Debug(4045): PanGPUI: Cleanup complete
+P3114-T243254848 Jun 06 21:32:15:783894 Info ( 690): debug thread ends
+P3114-T408189120 Jun 06 21:32:16:155908 Debug( 107): Abort socket
+failed to unregister service "org.kde.StatusNotifierItem-3114-2"
+ICE default IO error handler doing an exit(), pid = 3114, errno = 32
+P2976-T-1044117952 Jun 06 21:35:47:678767 Info ( 684): debug thread starts
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P2976-T-847124288 Jun 06 21:35:48:680851 Debug(  82): PanGPA connection successful
+P2976-T-847124288 Jun 06 21:35:48:845430 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P2976-T-847124288 Jun 06 21:35:48:880043 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2976-T-847124288 Jun 06 21:35:48:881761 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P2976-T-847124288 Jun 06 21:35:49:173290 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2976-T-847124288 Jun 06 21:35:49:173412 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P2976-T-847124288 Jun 06 21:35:49:294332 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2976-T-847124288 Jun 06 21:35:49:296113 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P2976-T-847124288 Jun 06 21:35:49:296118 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P2976-T-847124288 Jun 06 21:35:49:296120 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P2976-T-847124288 Jun 06 21:35:49:296122 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P2976-T-847124288 Jun 06 21:35:49:296123 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P2976-T-847124288 Jun 06 21:35:49:296125 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P2976-T-847124288 Jun 06 21:35:49:296126 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0
+P2976-T-847124288 Jun 06 21:38:27:484890 Debug(3996): PanGPUI: Starting cleanup...
+P2976-T-847124288 Jun 06 21:38:27:485130 Debug(4045): PanGPUI: Cleanup complete
+P2976-T-1044117952 Jun 06 21:38:27:695193 Info ( 690): debug thread ends
+P2976-T-847124288 Jun 06 21:38:28:582546 Debug( 107): Abort socket
+failed to unregister service "org.kde.StatusNotifierItem-2976-2"
+ICE default IO error handler doing an exit(), pid = 2976, errno = 32
+P2905-T192931392 Jun 06 21:45:45:897566 Info ( 684): debug thread starts
+P2905-T632334528 Jun 06 21:45:46:897117 Debug(  82): PanGPA connection successful
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P2905-T632334528 Jun 06 21:45:47:82466 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P2905-T632334528 Jun 06 21:45:47:122550 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2905-T632334528 Jun 06 21:45:47:124773 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P2905-T632334528 Jun 06 21:45:47:468526 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2905-T632334528 Jun 06 21:45:47:468651 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P2905-T632334528 Jun 06 21:45:47:544411 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2905-T632334528 Jun 06 21:45:47:546169 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P2905-T632334528 Jun 06 21:45:47:546174 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P2905-T632334528 Jun 06 21:45:47:546176 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P2905-T632334528 Jun 06 21:45:47:546178 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P2905-T632334528 Jun 06 21:45:47:546179 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P2905-T632334528 Jun 06 21:45:47:546180 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P2905-T632334528 Jun 06 21:45:47:546181 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0
+P2905-T632334528 Jun 06 21:49:00:905507 Debug(3996): PanGPUI: Starting cleanup...
+P2905-T632334528 Jun 06 21:49:00:905755 Debug(4045): PanGPUI: Cleanup complete
+P2905-T192931392 Jun 06 21:49:00:923278 Info ( 690): debug thread ends
+P2905-T632334528 Jun 06 21:49:02:628252 Debug( 107): Abort socket
+failed to unregister service "org.kde.StatusNotifierItem-2905-2"
+ICE default IO error handler doing an exit(), pid = 2905, errno = 32
+P2956-T1030223424 Jun 13 12:04:05:753361 Info ( 684): debug thread starts
+P2956-T1229056192 Jun 13 12:04:06:757376 Debug(  82): PanGPA connection successful
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P2956-T1229056192 Jun 13 12:04:06:942922 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P2956-T1229056192 Jun 13 12:04:06:992086 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2956-T1229056192 Jun 13 12:04:06:993733 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P2956-T1229056192 Jun 13 12:04:07:321074 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2956-T1229056192 Jun 13 12:04:07:321181 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P2956-T1229056192 Jun 13 12:04:07:407428 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2956-T1229056192 Jun 13 12:04:07:408906 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P2956-T1229056192 Jun 13 12:04:07:408912 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P2956-T1229056192 Jun 13 12:04:07:408913 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P2956-T1229056192 Jun 13 12:04:07:408915 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P2956-T1229056192 Jun 13 12:04:07:408916 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P2956-T1229056192 Jun 13 12:04:07:408917 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P2956-T1229056192 Jun 13 12:04:07:408918 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0
+"Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/1”"
+P2956-T1229056192 Jun 17 16:35:08:403849 Debug(3996): PanGPUI: Starting cleanup...
+P2956-T1229056192 Jun 17 16:35:08:404090 Debug(4045): PanGPUI: Cleanup complete
+P2956-T1030223424 Jun 17 16:35:09:140355 Info ( 690): debug thread ends
+P2956-T1229056192 Jun 17 16:35:10:274179 Debug( 107): Abort socket
+failed to unregister service "org.kde.StatusNotifierItem-2956-2"
+ICE default IO error handler doing an exit(), pid = 2956, errno = 32
+P2929-T729802304 Jun 19 17:13:48:76238 Info ( 684): debug thread starts
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P2929-T1165301952 Jun 19 17:13:49:80685 Debug(  82): PanGPA connection successful
+P2929-T1165301952 Jun 19 17:13:49:259757 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P2929-T1165301952 Jun 19 17:13:49:292109 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2929-T1165301952 Jun 19 17:13:49:293714 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P2929-T1165301952 Jun 19 17:13:49:585252 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2929-T1165301952 Jun 19 17:13:49:585365 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P2929-T1165301952 Jun 19 17:13:49:705392 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2929-T1165301952 Jun 19 17:13:49:706805 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P2929-T1165301952 Jun 19 17:13:49:706809 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P2929-T1165301952 Jun 19 17:13:49:706810 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P2929-T1165301952 Jun 19 17:13:49:706811 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P2929-T1165301952 Jun 19 17:13:49:706812 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P2929-T1165301952 Jun 19 17:13:49:706813 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P2929-T1165301952 Jun 19 17:13:49:706814 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0
+"Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/1”"
+"Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/1”"
+P2910-T-402655680 Jun 21 12:27:35:299348 Info ( 684): debug thread starts
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P2910-T71870656 Jun 21 12:27:36:301401 Debug(  82): PanGPA connection successful
+P2910-T71870656 Jun 21 12:27:36:478971 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P2910-T71870656 Jun 21 12:27:36:514402 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2910-T71870656 Jun 21 12:27:36:516148 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P2910-T71870656 Jun 21 12:27:36:867560 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2910-T71870656 Jun 21 12:27:36:867672 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P2910-T71870656 Jun 21 12:27:36:928910 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2910-T71870656 Jun 21 12:27:36:931392 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P2910-T71870656 Jun 21 12:27:36:931399 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P2910-T71870656 Jun 21 12:27:36:931401 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P2910-T71870656 Jun 21 12:27:36:931403 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P2910-T71870656 Jun 21 12:27:36:931404 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P2910-T71870656 Jun 21 12:27:36:931405 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P2910-T71870656 Jun 21 12:27:36:931406 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0
+"Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/1”"
+P2910-T71870656 Jun 21 15:06:27:281558 Debug(3996): PanGPUI: Starting cleanup...
+P2910-T71870656 Jun 21 15:06:27:282148 Debug(4045): PanGPUI: Cleanup complete
+P2910-T-402655680 Jun 21 15:06:28:35938 Info ( 690): debug thread ends
+P2910-T71870656 Jun 21 15:06:29:54930 Debug( 107): Abort socket
+failed to unregister service "org.kde.StatusNotifierItem-2910-2"
+ICE default IO error handler doing an exit(), pid = 2910, errno = 32
+P2950-T1867765312 Jun 28 15:44:32:177902 Info ( 684): debug thread starts
+P2950-T-1995106112 Jun 28 15:44:33:179281 Debug(  82): PanGPA connection successful
+Setting a QCompleter on non-editable QComboBox is not allowed.
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to ConnectionsTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to TroubleShootingTab "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIFedMandateDialog "", which already has a layout
+QLayout: Attempting to add QLayout "" to PanGPUIPreferredGwDialog "", which already has a layout
+P2950-T-1995106112 Jun 28 15:44:33:361051 Debug( 317): GeneralTab::setSslFromHip m_bSslEnabled false  m_nSslOnly 0 
+P2950-T-1995106112 Jun 28 15:44:33:395419 Debug( 206): 
+SEND_TO_GPA: <request><type>retrieve-last-state</type><uid>1001</uid></request>
+P2950-T-1995106112 Jun 28 15:44:33:397239 Debug( 206): 
+SEND_TO_GPA: <request><type>get_config</type><uid>1001</uid></request>
+P2950-T-1995106112 Jun 28 15:44:33:727820 Debug( 193): 
+RECV_FROM_GPA: <response><type>portal</type><state>Disconnected</state><error></error><server></server><portal-status>Invalid portal</portal-status><user-name></user-name><last-url></last-url><disable>no</disable><on-demand>no</on-demand></response>
+P2950-T-1995106112 Jun 28 15:44:33:727935 Debug( 248): PanGPUIStatusMgr::updateStatus: last-url 
+P2950-T-1995106112 Jun 28 15:44:33:810228 Debug( 193): 
+RECV_FROM_GPA: <response><type>get_config</type><use-ssl-tunnel>no</use-ssl-tunnel><can-change-portal>yes</can-change-portal><default-browser>no</default-browser><on-demand>no</on-demand><enable-signout>yes</enable-signout><disable-allowed>yes</disable-allowed><last-url></last-url><rediscover-network>yes</rediscover-network><fed-mandate>no</fed-mandate></response>
+P2950-T-1995106112 Jun 28 15:44:33:811770 Debug( 161): PanGPUIStatusMgr::updateConfig can_change_portal 1
+P2950-T-1995106112 Jun 28 15:44:33:811775 Debug( 168): PanGPUIStatusMgr::updateConfig default_browser 0
+P2950-T-1995106112 Jun 28 15:44:33:811776 Debug( 181): PanGPUIStatusMgr::updateConfig: disable-allowed true
+P2950-T-1995106112 Jun 28 15:44:33:811777 Debug( 188): PanGPUIStatusMgr::updateConfig: last-url 
+P2950-T-1995106112 Jun 28 15:44:33:811778 Debug( 195): PanGPUIStatusMgr::updateConfig: enable_signout received true
+P2950-T-1995106112 Jun 28 15:44:33:811779 Debug( 203): PanGPUIStatusMgr::updateConfig: rediscover_network received true
+P2950-T-1995106112 Jun 28 15:44:33:811779 Debug( 210): PanGPUIStatusMgr::updateConfig fed_mandate 0

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="google-chrome.desktop" score="290" last-seen="1719588289"/>
+    <application id="org.gnome.Terminal.desktop" score="32" last-seen="1719588300"/>
+    <application id="insync.desktop" score="149804.44775390625" last-seen="1719585880"/>
+    <application id="update-manager.desktop" score="0" last-seen="1719585936"/>
+  </context>
+</application-state>
